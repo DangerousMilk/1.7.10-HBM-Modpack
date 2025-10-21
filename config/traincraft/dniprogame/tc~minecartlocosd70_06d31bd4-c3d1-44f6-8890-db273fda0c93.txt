@@ -1,0 +1,21 @@
+<xmlRoot>
+   <uuid>06d31bd4-c3d1-44f6-8890-db273fda0c93</uuid>
+   <delegate>tc:minecartLocoSD70</delegate>
+   <pos_x>-3684.7615591253148</pos_x>
+   <pos_y>64.84999995231628</pos_y>
+   <pos_z>2871.5</pos_z>
+    <inventory>
+        <ItemStack>
+            <ID>6855</ID>
+            <delegate>tc:diesel</delegate>
+            <meta>0</meta>
+            <StackSize>30</StackSize>
+        </ItemStack>
+        <ItemStack>
+            <ID>6899</ID>
+            <delegate>tc:emptyCanister</delegate>
+            <meta>0</meta>
+            <StackSize>34</StackSize>
+        </ItemStack>
+   </inventory>
+</xmlRoot>

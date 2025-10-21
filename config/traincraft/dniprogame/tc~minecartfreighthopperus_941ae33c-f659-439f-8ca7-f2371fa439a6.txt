@@ -1,0 +1,15 @@
+<xmlRoot>
+   <uuid>941ae33c-f659-439f-8ca7-f2371fa439a6</uuid>
+   <delegate>tc:minecartFreightHopperUS</delegate>
+   <pos_x>407.3958448454907</pos_x>
+   <pos_y>4.849999976158142</pos_y>
+   <pos_z>-134.90665530383637</pos_z>
+    <inventory>
+        <ItemStack>
+            <ID>1693</ID>
+            <delegate>hbm:tile.crane_extractor</delegate>
+            <meta>0</meta>
+            <StackSize>13</StackSize>
+        </ItemStack>
+   </inventory>
+</xmlRoot>

@@ -1,0 +1,15 @@
+<xmlRoot>
+   <uuid>9037abd7-b693-422e-a98c-ac9b3f30d4d5</uuid>
+   <delegate>tc:minecartV60_DB</delegate>
+   <pos_x>396.0350362878576</pos_x>
+   <pos_y>4.649999976158142</pos_y>
+   <pos_z>-139.5051984485867</pos_z>
+    <inventory>
+        <ItemStack>
+            <ID>6953</ID>
+            <delegate>tc:emptyCanister</delegate>
+            <meta>0</meta>
+            <StackSize>27</StackSize>
+        </ItemStack>
+   </inventory>
+</xmlRoot>

@@ -1,0 +1,9 @@
+<xmlRoot>
+   <uuid>a10441ef-613a-42dd-a9f2-5f8bf234727e</uuid>
+   <delegate>tc:minecartRoundHopper</delegate>
+   <pos_x>1457.6219581035468</pos_x>
+   <pos_y>68.84999997615814</pos_y>
+   <pos_z>7075.5</pos_z>
+    <inventory>
+   </inventory>
+</xmlRoot>

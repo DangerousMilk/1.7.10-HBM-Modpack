@@ -1,0 +1,9 @@
+<xmlRoot>
+   <uuid>de41fb44-ebe2-4809-8ba4-9298994da01e</uuid>
+   <delegate>tc:minecartTankWagon_DB</delegate>
+   <pos_x>-10.57501926829902</pos_x>
+   <pos_y>64.64999997615814</pos_y>
+   <pos_z>126.03911966450352</pos_z>
+    <inventory>
+   </inventory>
+</xmlRoot>

@@ -1,0 +1,15 @@
+<xmlRoot>
+   <uuid>d971a0d5-f294-4f07-b268-f76cd3ed6295</uuid>
+   <delegate>tc:minecartRoundHopper</delegate>
+   <pos_x>1463.9685460010105</pos_x>
+   <pos_y>68.84999997615814</pos_y>
+   <pos_z>7075.5</pos_z>
+    <inventory>
+        <ItemStack>
+            <ID>5368</ID>
+            <delegate>hbm:item.fluid_barrel_empty</delegate>
+            <meta>0</meta>
+            <StackSize>8</StackSize>
+        </ItemStack>
+   </inventory>
+</xmlRoot>

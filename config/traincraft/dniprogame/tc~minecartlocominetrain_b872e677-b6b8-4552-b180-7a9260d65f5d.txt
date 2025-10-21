@@ -1,0 +1,15 @@
+<xmlRoot>
+   <uuid>b872e677-b6b8-4552-b180-7a9260d65f5d</uuid>
+   <delegate>tc:minecartLocoMineTrain</delegate>
+   <pos_x>539.5558767950104</pos_x>
+   <pos_y>68.64999997615814</pos_y>
+   <pos_z>-2582.5</pos_z>
+    <inventory>
+        <ItemStack>
+            <ID>331</ID>
+            <delegate>minecraft:redstone</delegate>
+            <meta>0</meta>
+            <StackSize>54</StackSize>
+        </ItemStack>
+   </inventory>
+</xmlRoot>

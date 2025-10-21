@@ -1,0 +1,9 @@
+<xmlRoot>
+   <uuid>cd017074-8ed4-4e9a-85be-8802791c8b39</uuid>
+   <delegate>tc:minecartLocoSteamPannier</delegate>
+   <pos_x>621.5</pos_x>
+   <pos_y>4.849999952316284</pos_y>
+   <pos_z>-17.5</pos_z>
+    <inventory>
+   </inventory>
+</xmlRoot>

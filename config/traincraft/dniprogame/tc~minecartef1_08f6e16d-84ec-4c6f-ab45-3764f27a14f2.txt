@@ -1,0 +1,21 @@
+<xmlRoot>
+   <uuid>08f6e16d-84ec-4c6f-ab45-3764f27a14f2</uuid>
+   <delegate>tc:minecartEF1</delegate>
+   <pos_x>562.3432664718176</pos_x>
+   <pos_y>4.849999952316284</pos_y>
+   <pos_z>-41.5</pos_z>
+    <inventory>
+        <ItemStack>
+            <ID>331</ID>
+            <delegate>minecraft:redstone</delegate>
+            <meta>0</meta>
+            <StackSize>57</StackSize>
+        </ItemStack>
+        <ItemStack>
+            <ID>331</ID>
+            <delegate>minecraft:redstone</delegate>
+            <meta>0</meta>
+            <StackSize>17</StackSize>
+        </ItemStack>
+   </inventory>
+</xmlRoot>

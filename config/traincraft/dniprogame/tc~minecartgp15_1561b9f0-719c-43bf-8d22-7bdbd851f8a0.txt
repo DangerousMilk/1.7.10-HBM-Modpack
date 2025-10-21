@@ -1,0 +1,27 @@
+<xmlRoot>
+   <uuid>1561b9f0-719c-43bf-8d22-7bdbd851f8a0</uuid>
+   <delegate>tc:minecartGP15</delegate>
+   <pos_x>586.4528099652939</pos_x>
+   <pos_y>4.849999952316284</pos_y>
+   <pos_z>-100.95280996529392</pos_z>
+    <inventory>
+        <ItemStack>
+            <ID>6909</ID>
+            <delegate>tc:diesel</delegate>
+            <meta>0</meta>
+            <StackSize>2</StackSize>
+        </ItemStack>
+        <ItemStack>
+            <ID>6953</ID>
+            <delegate>tc:emptyCanister</delegate>
+            <meta>0</meta>
+            <StackSize>59</StackSize>
+        </ItemStack>
+        <ItemStack>
+            <ID>4541</ID>
+            <delegate>Railcraft:routing.ticket.gold</delegate>
+            <meta>0</meta>
+            <StackSize>1</StackSize>
+        </ItemStack>
+   </inventory>
+</xmlRoot>

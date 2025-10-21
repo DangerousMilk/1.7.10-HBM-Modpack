@@ -1,0 +1,9 @@
+<xmlRoot>
+   <uuid>12f28515-e8ca-42f2-b0ac-dd044761eada</uuid>
+   <delegate>tc:minecartLoco44TonSwitcher</delegate>
+   <pos_x>344.5</pos_x>
+   <pos_y>4.849999952316284</pos_y>
+   <pos_z>-438.5</pos_z>
+    <inventory>
+   </inventory>
+</xmlRoot>

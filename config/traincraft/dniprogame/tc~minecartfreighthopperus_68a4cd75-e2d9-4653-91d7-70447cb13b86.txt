@@ -1,0 +1,15 @@
+<xmlRoot>
+   <uuid>68a4cd75-e2d9-4653-91d7-70447cb13b86</uuid>
+   <delegate>tc:minecartFreightHopperUS</delegate>
+   <pos_x>403.9289363961664</pos_x>
+   <pos_y>4.849999976158142</pos_y>
+   <pos_z>-135.87647239537694</pos_z>
+    <inventory>
+        <ItemStack>
+            <ID>5434</ID>
+            <delegate>hbm:item.fluid_barrel_full</delegate>
+            <meta>10</meta>
+            <StackSize>64</StackSize>
+        </ItemStack>
+   </inventory>
+</xmlRoot>
