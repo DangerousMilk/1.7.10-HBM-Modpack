@@ -250,12 +250,16 @@ minecraft:log2:0, Acacia Wood
 minecraft:log2:1, Dark Oak Wood
 minecraft:acacia_stairs, Acacia Wood Stairs
 minecraft:dark_oak_stairs, Dark Oak Wood Stairs
-HarderWildlife:logRotting:8, Rotten Log
-HarderWildlife:logRotting:12, Compost
-HarderWildlife:winterWheat, Winter Wheat
-HarderWildlife:snowyTallGrass, tile.snowy_grass.name
-HarderWildlife:weeds, Weeds
-HarderWildlife:machine_tanner, Tanning Rack
+ActuallyAdditions:blockFireworkBox, Firework Box
+ActuallyAdditions:blockMiner, Vertical Digger
+ActuallyAdditions:blockBookStand, Manual Stand
+ActuallyAdditions:blockAtomicReconstructor, Atomic Reconstructor
+ActuallyAdditions:blockCrystal:0, Restonia Crystal Block
+ActuallyAdditions:blockCrystal:1, Palis Crystal Block
+ActuallyAdditions:blockCrystal:2, Diamatine Crystal Block
+ActuallyAdditions:blockCrystal:3, Void Crystal Block
+ActuallyAdditions:blockCrystal:4, Emeradic Crystal Block
+ActuallyAdditions:blockCrystal:5, Enori Crystal Block
 minecraft:hay_block, Hay Bale
 minecraft:carpet:0, Carpet
 minecraft:carpet:1, Orange Carpet
@@ -282,16 +286,6 @@ minecraft:double_plant:2, Double Tallgrass
 minecraft:double_plant:3, Large Fern
 minecraft:double_plant:4, Rose Bush
 minecraft:double_plant:5, Peony
-ActuallyAdditions:blockFireworkBox, Firework Box
-ActuallyAdditions:blockMiner, Vertical Digger
-ActuallyAdditions:blockBookStand, Manual Stand
-ActuallyAdditions:blockAtomicReconstructor, Atomic Reconstructor
-ActuallyAdditions:blockCrystal:0, Restonia Crystal Block
-ActuallyAdditions:blockCrystal:1, Palis Crystal Block
-ActuallyAdditions:blockCrystal:2, Diamatine Crystal Block
-ActuallyAdditions:blockCrystal:3, Void Crystal Block
-ActuallyAdditions:blockCrystal:4, Emeradic Crystal Block
-ActuallyAdditions:blockCrystal:5, Enori Crystal Block
 ActuallyAdditions:blockBlackLotus, Black Lotus
 ActuallyAdditions:blockLaserRelay, Laser Relay
 ActuallyAdditions:blockRangedCollector, Ranged Collector
@@ -409,6 +403,15 @@ appliedenergistics2:tile.BlockQuartz, Certus Quartz Block
 appliedenergistics2:tile.BlockQuartzPillar, Certus Quartz Pillar
 appliedenergistics2:tile.BlockQuartzChiseled, Chiseled Certus Quartz Block
 appliedenergistics2:tile.BlockQuartzGlass, Quartz Glass
+appliedenergistics2:tile.BlockQuartzLamp, Vibrant Quartz Glass
+appliedenergistics2:tile.BlockQuartzTorch, Charged Quartz Fixture
+appliedenergistics2:tile.BlockFluix, Fluix Block
+appliedenergistics2:tile.BlockSkyStone:0, Sky Stone
+appliedenergistics2:tile.BlockSkyStone:1, Sky Stone Block
+appliedenergistics2:tile.BlockSkyStone:2, Sky Stone Brick
+appliedenergistics2:tile.BlockSkyStone:3, Sky Stone Small Brick
+appliedenergistics2:tile.BlockSkyChest:0, Sky Stone Chest
+appliedenergistics2:tile.BlockSkyChest:1, Sky Stone Block Chest
 minecraft:iron_shovel, Iron Shovel
 minecraft:iron_pickaxe, Iron Pickaxe
 minecraft:iron_axe, Iron Axe
@@ -705,29 +708,20 @@ minecraft:netherbrick, Nether Brick
 minecraft:quartz, Nether Quartz
 minecraft:tnt_minecart, Minecart with TNT
 minecraft:hopper_minecart, Minecart with Hopper
-appliedenergistics2:tile.BlockQuartzLamp, Vibrant Quartz Glass
-appliedenergistics2:tile.BlockQuartzTorch, Charged Quartz Fixture
-appliedenergistics2:tile.BlockFluix, Fluix Block
-appliedenergistics2:tile.BlockSkyStone:0, Sky Stone
-appliedenergistics2:tile.BlockSkyStone:1, Sky Stone Block
-appliedenergistics2:tile.BlockSkyStone:2, Sky Stone Brick
-appliedenergistics2:tile.BlockSkyStone:3, Sky Stone Small Brick
-appliedenergistics2:tile.BlockSkyChest:0, Sky Stone Chest
-appliedenergistics2:tile.BlockSkyChest:1, Sky Stone Block Chest
 appliedenergistics2:tile.BlockSkyCompass, Meteorite Compass
 appliedenergistics2:tile.BlockGrinder, Quartz Grindstone
 appliedenergistics2:tile.BlockCrank, Wooden Crank
+appliedenergistics2:tile.BlockInscriber, Inscriber
+appliedenergistics2:tile.BlockWireless, ME Wireless Access Point
+appliedenergistics2:tile.BlockCharger, Charger
+appliedenergistics2:tile.BlockTinyTNT, Tiny TNT
+appliedenergistics2:tile.BlockSecurity, ME Security Terminal
 minecraft:iron_horse_armor, Iron Horse Armor
 minecraft:golden_horse_armor, Gold Horse Armor
 minecraft:diamond_horse_armor, Diamond Horse Armor
 minecraft:lead, Lead
 minecraft:name_tag, Name Tag
 minecraft:command_block_minecart, Minecart with Command Block
-appliedenergistics2:tile.BlockInscriber, Inscriber
-appliedenergistics2:tile.BlockWireless, ME Wireless Access Point
-appliedenergistics2:tile.BlockCharger, Charger
-appliedenergistics2:tile.BlockTinyTNT, Tiny TNT
-appliedenergistics2:tile.BlockSecurity, ME Security Terminal
 appliedenergistics2:tile.BlockQuantumRing, ME Quantum Ring
 appliedenergistics2:tile.BlockQuantumLinkChamber, ME Quantum Link Chamber
 appliedenergistics2:tile.BlockSpatialPylon, Spatial Pylon
@@ -4566,6 +4560,7 @@ hbm:tile.lightstone_tile_stairs, Lightstone Tile Stairs
 hbm:tile.lightstone_bricks_stairs, Lightstone Brick Stairs
 hbm:tile.stones_slab:0, Lightstone Tile Slab
 hbm:tile.stones_slab:1, Lightstone Brick Slab
+hbm:tile.brick_forgotten, tile.brick_forgotten.name
 hbm:tile.concrete_slab:0, Concrete Slab
 hbm:tile.concrete_slab:1, Concrete Tile Slab
 hbm:tile.concrete_slab:2, Asbestos Concrete Slab
@@ -4759,7 +4754,7 @@ hbm:tile.crop_strawberry, Strawberries
 hbm:tile.crop_paraffin, Wax Crop
 hbm:tile.crop_coffee, Coffee
 hbm:tile.crop_tea, Tea
-hbm:tile.vine_phosphor, tile.vine_phosphor.name
+hbm:tile.vine_phosphor, Phosphor Vines
 hbm:tile.mush, Glowing Mushroom
 hbm:tile.mush_block, tile.mush_block.name
 hbm:tile.mush_block_stem, tile.mush_block_stem.name
@@ -4919,11 +4914,11 @@ hbm:tile.hev_battery, Suit Battery
 hbm:tile.fence_metal:0, Chainlink Fence
 hbm:tile.fence_metal:1, Chainlink Fence Post
 hbm:tile.ash_digamma, Ash
-hbm:tile.sand_boron, Boron Sand
-hbm:tile.sand_lead, Lead Sand
-hbm:tile.sand_uranium, Uranium Sand
-hbm:tile.sand_polonium, Polonium Sand
-hbm:tile.sand_quartz, Quartz Sand
+hbm:tile.sand_mix:0, Boron Sand
+hbm:tile.sand_mix:1, Lead Sand
+hbm:tile.sand_mix:2, Uranium Sand
+hbm:tile.sand_mix:3, Polonium Sand
+hbm:tile.sand_mix:4, Quartz Sand
 hbm:tile.glass_boron, Boron Glass
 hbm:tile.glass_lead, Lead Glass
 hbm:tile.glass_uranium, Uranium Glass
@@ -5074,10 +5069,6 @@ hbm:tile.hadron_coil_starmetal, Dense Starmetal Coil
 hbm:tile.hadron_coil_chlorophyte, Dense Chlorophyte Coil
 hbm:tile.hadron_coil_mese, Dense Mese Coil
 hbm:tile.hadron_power, Particle Accelerator Power Plug (1MHE)
-hbm:tile.hadron_power_10m, Particle Accelerator Power Plug (10MHE)
-hbm:tile.hadron_power_100m, Particle Accelerator Power Plug (100MHE)
-hbm:tile.hadron_power_1g, Particle Accelerator Power Plug (1GHE)
-hbm:tile.hadron_power_10g, Particle Accelerator Power Plug (10GHE)
 hbm:tile.hadron_diode, Schottky Particle Diode
 hbm:tile.hadron_analysis, Particle Accelerator Analysis Chamber Wall
 hbm:tile.hadron_analysis_glass, Particle Accelerator Analysis Chamber Window
@@ -5158,6 +5149,7 @@ hbm:tile.fluid_duct_exhaust:9, Exhaust Pipe
 hbm:tile.fluid_duct_exhaust:12, Exhaust Pipe
 hbm:tile.fluid_duct_paintable_block_exhaust, Paintable Coated Exhaust Pipe
 hbm:tile.fluid_duct_paintable, Paintable Coated Universal Fluid Duct
+hbm:tile.pipe_anchor, Pipe Anchor
 hbm:tile.fluid_duct_gauge, Flow Gauge Pipe
 hbm:tile.fluid_valve, Fluid Valve
 hbm:tile.fluid_switch, Redstone Fluid Valve
@@ -5556,6 +5548,17 @@ modernmarkings:tile.floor_marking_yellow_crossing, Yellow Crossing Floor Marking
 modernmarkings:tile.floor_marking_yellow_turn, Yellow Turn Floor Marking
 modernmarkings:tile.floor_marking_yellow_end, Yellow End Floor Marking
 modernmarkings:tile.floor_marking_yellow_corner, Yellow Corner Floor Marking
+modernmarkings:tile.floor_marking_white_t_crossing, White T Crossing Floor Marking
+modernmarkings:tile.floor_marking_white_crossing, White Crossing Floor Marking
+modernmarkings:tile.floor_marking_white_turn, White Turn Floor Marking
+modernmarkings:tile.floor_marking_white_end, White End Floor Marking
+modernmarkings:tile.floor_marking_white_sideline, White Sideline Floor Marking
+modernmarkings:tile.floor_marking_white_square, White Square Floor Marking
+modernmarkings:tile.floor_marking_whiteblack_hazardline, White Hazard Line Floor Marking
+modernmarkings:tile.floor_marking_white_singleline, White Line Floor Marking
+modernmarkings:tile.floor_marking_white_corner, White Corner Floor Marking
+modernmarkings:tile.floor_marking_white_arrow, White Arrow Floor Marking
+modernmarkings:tile.floor_marking_white_lane_cross, White Lane Cross Floor Marking
 minecraft:record_13, Music Disc
 minecraft:record_cat, Music Disc
 minecraft:record_blocks, Music Disc
@@ -5568,17 +5571,6 @@ minecraft:record_strad, Music Disc
 minecraft:record_ward, Music Disc
 minecraft:record_11, Music Disc
 minecraft:record_wait, Music Disc
-modernmarkings:tile.floor_marking_white_t_crossing, White T Crossing Floor Marking
-modernmarkings:tile.floor_marking_white_crossing, White Crossing Floor Marking
-modernmarkings:tile.floor_marking_white_turn, White Turn Floor Marking
-modernmarkings:tile.floor_marking_white_end, White End Floor Marking
-modernmarkings:tile.floor_marking_white_sideline, White Sideline Floor Marking
-modernmarkings:tile.floor_marking_white_square, White Square Floor Marking
-modernmarkings:tile.floor_marking_whiteblack_hazardline, White Hazard Line Floor Marking
-modernmarkings:tile.floor_marking_white_singleline, White Line Floor Marking
-modernmarkings:tile.floor_marking_white_corner, White Corner Floor Marking
-modernmarkings:tile.floor_marking_white_arrow, White Arrow Floor Marking
-modernmarkings:tile.floor_marking_white_lane_cross, White Lane Cross Floor Marking
 modernmarkings:tile.floor_marking_white_lane, White Lane Floor Marking
 modernmarkings:tile.floor_marking_black_singleline, Black Line Floor Marking
 modernmarkings:tile.floor_marking_black_corner, Black Corner Floor Marking
@@ -5927,17 +5919,6 @@ tc:metroMadridPole, Metro Madrid Overhead Line
 tc:speedSign, Speed Sign
 tc:asphaltSlab:0, Asphalt Slab
 tc:asphaltStairs, Asphalt Stairs
-HarderWildlife:winterWheatSeeds, Winter Wheat Seeds
-HarderWildlife:thermometer, Thermometer
-HarderWildlife:rainmeter, Hydrometer
-HarderWildlife:chevonRaw, Raw Chevon
-HarderWildlife:chevonCooked, Cooked Chevon
-HarderWildlife:dendrometer, Dendrometer
-HarderWildlife:dendricide, Dendricide
-HarderWildlife:seasonal_calendar, Seasonal Calendar
-HarderWildlife:rawLeather, Rawhide
-HarderWildlife:vitometer, Vitometer
-HarderWildlife:itemAchievementIcons, item.achievement_icons.name
 ActuallyAdditions:itemMisc:0, Paper Cone
 ActuallyAdditions:itemMisc:1, Mashed Food
 ActuallyAdditions:itemMisc:2, Knife Blade
@@ -6355,16 +6336,16 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Red Stained Clay
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Black Stained Clay
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Acacia Wood
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Oak Wood
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Hay Bale
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Hardened Clay
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Coal
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Packed Ice
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Restonia Crystal Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Palis Crystal Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Diamatine Crystal Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Void Crystal Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Emeradic Crystal Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Enori Crystal Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Hay Bale
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Hardened Clay
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Coal
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Packed Ice
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Ethetic Green Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Ethetic Quartz
 appliedenergistics2:item.ItemFacade:0, Cable Facade - White Lamp
@@ -9046,6 +9027,7 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Lightstone Tile
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Lightstone Bricks
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Lightstone Chiseled Bricks
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Chiseled Lightstone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.brick_forgotten.name
 appliedenergistics2:item.ItemFacade:0, Cable Facade - CMB Steel Tile
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Reinforced CMB Bricks
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Large Vinyl Tile
@@ -13058,201 +13040,6 @@ hbm:item.siren_track:19, Siren Track
 hbm:item.siren_track:20, Siren Track
 hbm:item.siren_track:21, Siren Track
 hbm:item.siren_track:22, Siren Track
-hbm:item.fluid_identifier:1, Fluid Identifier
-hbm:item.fluid_identifier:60, Fluid Identifier
-hbm:item.fluid_identifier:165, Fluid Identifier
-hbm:item.fluid_identifier:7, Fluid Identifier
-hbm:item.fluid_identifier:2, Fluid Identifier
-hbm:item.fluid_identifier:3, Fluid Identifier
-hbm:item.fluid_identifier:4, Fluid Identifier
-hbm:item.fluid_identifier:5, Fluid Identifier
-hbm:item.fluid_identifier:48, Fluid Identifier
-hbm:item.fluid_identifier:55, Fluid Identifier
-hbm:item.fluid_identifier:6, Fluid Identifier
-hbm:item.fluid_identifier:76, Fluid Identifier
-hbm:item.fluid_identifier:197, Fluid Identifier
-hbm:item.fluid_identifier:198, Fluid Identifier
-hbm:item.fluid_identifier:199, Fluid Identifier
-hbm:item.fluid_identifier:37, Fluid Identifier
-hbm:item.fluid_identifier:77, Fluid Identifier
-hbm:item.fluid_identifier:78, Fluid Identifier
-hbm:item.fluid_identifier:83, Fluid Identifier
-hbm:item.fluid_identifier:87, Fluid Identifier
-hbm:item.fluid_identifier:89, Fluid Identifier
-hbm:item.fluid_identifier:166, Fluid Identifier
-hbm:item.fluid_identifier:167, Fluid Identifier
-hbm:item.fluid_identifier:185, Fluid Identifier
-hbm:item.fluid_identifier:186, Fluid Identifier
-hbm:item.fluid_identifier:168, Fluid Identifier
-hbm:item.fluid_identifier:169, Fluid Identifier
-hbm:item.fluid_identifier:170, Fluid Identifier
-hbm:item.fluid_identifier:38, Fluid Identifier
-hbm:item.fluid_identifier:8, Fluid Identifier
-hbm:item.fluid_identifier:9, Fluid Identifier
-hbm:item.fluid_identifier:57, Fluid Identifier
-hbm:item.fluid_identifier:164, Fluid Identifier
-hbm:item.fluid_identifier:39, Fluid Identifier
-hbm:item.fluid_identifier:40, Fluid Identifier
-hbm:item.fluid_identifier:96, Fluid Identifier
-hbm:item.fluid_identifier:124, Fluid Identifier
-hbm:item.fluid_identifier:42, Fluid Identifier
-hbm:item.fluid_identifier:82, Fluid Identifier
-hbm:item.fluid_identifier:132, Fluid Identifier
-hbm:item.fluid_identifier:10, Fluid Identifier
-hbm:item.fluid_identifier:174, Fluid Identifier
-hbm:item.fluid_identifier:61, Fluid Identifier
-hbm:item.fluid_identifier:176, Fluid Identifier
-hbm:item.fluid_identifier:62, Fluid Identifier
-hbm:item.fluid_identifier:134, Fluid Identifier
-hbm:item.fluid_identifier:11, Fluid Identifier
-hbm:item.fluid_identifier:175, Fluid Identifier
-hbm:item.fluid_identifier:63, Fluid Identifier
-hbm:item.fluid_identifier:177, Fluid Identifier
-hbm:item.fluid_identifier:12, Fluid Identifier
-hbm:item.fluid_identifier:97, Fluid Identifier
-hbm:item.fluid_identifier:19, Fluid Identifier
-hbm:item.fluid_identifier:178, Fluid Identifier
-hbm:item.fluid_identifier:64, Fluid Identifier
-hbm:item.fluid_identifier:135, Fluid Identifier
-hbm:item.fluid_identifier:98, Fluid Identifier
-hbm:item.fluid_identifier:21, Fluid Identifier
-hbm:item.fluid_identifier:179, Fluid Identifier
-hbm:item.fluid_identifier:65, Fluid Identifier
-hbm:item.fluid_identifier:99, Fluid Identifier
-hbm:item.fluid_identifier:13, Fluid Identifier
-hbm:item.fluid_identifier:14, Fluid Identifier
-hbm:item.fluid_identifier:15, Fluid Identifier
-hbm:item.fluid_identifier:108, Fluid Identifier
-hbm:item.fluid_identifier:16, Fluid Identifier
-hbm:item.fluid_identifier:18, Fluid Identifier
-hbm:item.fluid_identifier:23, Fluid Identifier
-hbm:item.fluid_identifier:136, Fluid Identifier
-hbm:item.fluid_identifier:24, Fluid Identifier
-hbm:item.fluid_identifier:100, Fluid Identifier
-hbm:item.fluid_identifier:25, Fluid Identifier
-hbm:item.fluid_identifier:93, Fluid Identifier
-hbm:item.fluid_identifier:94, Fluid Identifier
-hbm:item.fluid_identifier:67, Fluid Identifier
-hbm:item.fluid_identifier:68, Fluid Identifier
-hbm:item.fluid_identifier:101, Fluid Identifier
-hbm:item.fluid_identifier:112, Fluid Identifier
-hbm:item.fluid_identifier:20, Fluid Identifier
-hbm:item.fluid_identifier:109, Fluid Identifier
-hbm:item.fluid_identifier:66, Fluid Identifier
-hbm:item.fluid_identifier:110, Fluid Identifier
-hbm:item.fluid_identifier:22, Fluid Identifier
-hbm:item.fluid_identifier:111, Fluid Identifier
-hbm:item.fluid_identifier:17, Fluid Identifier
-hbm:item.fluid_identifier:72, Fluid Identifier
-hbm:item.fluid_identifier:46, Fluid Identifier
-hbm:item.fluid_identifier:73, Fluid Identifier
-hbm:item.fluid_identifier:47, Fluid Identifier
-hbm:item.fluid_identifier:74, Fluid Identifier
-hbm:item.fluid_identifier:80, Fluid Identifier
-hbm:item.fluid_identifier:79, Fluid Identifier
-hbm:item.fluid_identifier:26, Fluid Identifier
-hbm:item.fluid_identifier:27, Fluid Identifier
-hbm:item.fluid_identifier:59, Fluid Identifier
-hbm:item.fluid_identifier:130, Fluid Identifier
-hbm:item.fluid_identifier:140, Fluid Identifier
-hbm:item.fluid_identifier:141, Fluid Identifier
-hbm:item.fluid_identifier:28, Fluid Identifier
-hbm:item.fluid_identifier:86, Fluid Identifier
-hbm:item.fluid_identifier:41, Fluid Identifier
-hbm:item.fluid_identifier:160, Fluid Identifier
-hbm:item.fluid_identifier:162, Fluid Identifier
-hbm:item.fluid_identifier:163, Fluid Identifier
-hbm:item.fluid_identifier:161, Fluid Identifier
-hbm:item.fluid_identifier:196, Fluid Identifier
-hbm:item.fluid_identifier:206, Fluid Identifier
-hbm:item.fluid_identifier:207, Fluid Identifier
-hbm:item.fluid_identifier:208, Fluid Identifier
-hbm:item.fluid_identifier:209, Fluid Identifier
-hbm:item.fluid_identifier:69, Fluid Identifier
-hbm:item.fluid_identifier:81, Fluid Identifier
-hbm:item.fluid_identifier:116, Fluid Identifier
-hbm:item.fluid_identifier:182, Fluid Identifier
-hbm:item.fluid_identifier:183, Fluid Identifier
-hbm:item.fluid_identifier:128, Fluid Identifier
-hbm:item.fluid_identifier:35, Fluid Identifier
-hbm:item.fluid_identifier:75, Fluid Identifier
-hbm:item.fluid_identifier:121, Fluid Identifier
-hbm:item.fluid_identifier:188, Fluid Identifier
-hbm:item.fluid_identifier:189, Fluid Identifier
-hbm:item.fluid_identifier:190, Fluid Identifier
-hbm:item.fluid_identifier:191, Fluid Identifier
-hbm:item.fluid_identifier:119, Fluid Identifier
-hbm:item.fluid_identifier:120, Fluid Identifier
-hbm:item.fluid_identifier:123, Fluid Identifier
-hbm:item.fluid_identifier:122, Fluid Identifier
-hbm:item.fluid_identifier:181, Fluid Identifier
-hbm:item.fluid_identifier:117, Fluid Identifier
-hbm:item.fluid_identifier:153, Fluid Identifier
-hbm:item.fluid_identifier:118, Fluid Identifier
-hbm:item.fluid_identifier:154, Fluid Identifier
-hbm:item.fluid_identifier:155, Fluid Identifier
-hbm:item.fluid_identifier:156, Fluid Identifier
-hbm:item.fluid_identifier:125, Fluid Identifier
-hbm:item.fluid_identifier:88, Fluid Identifier
-hbm:item.fluid_identifier:84, Fluid Identifier
-hbm:item.fluid_identifier:91, Fluid Identifier
-hbm:item.fluid_identifier:85, Fluid Identifier
-hbm:item.fluid_identifier:90, Fluid Identifier
-hbm:item.fluid_identifier:95, Fluid Identifier
-hbm:item.fluid_identifier:133, Fluid Identifier
-hbm:item.fluid_identifier:32, Fluid Identifier
-hbm:item.fluid_identifier:29, Fluid Identifier
-hbm:item.fluid_identifier:30, Fluid Identifier
-hbm:item.fluid_identifier:31, Fluid Identifier
-hbm:item.fluid_identifier:43, Fluid Identifier
-hbm:item.fluid_identifier:58, Fluid Identifier
-hbm:item.fluid_identifier:36, Fluid Identifier
-hbm:item.fluid_identifier:143, Fluid Identifier
-hbm:item.fluid_identifier:171, Fluid Identifier
-hbm:item.fluid_identifier:137, Fluid Identifier
-hbm:item.fluid_identifier:138, Fluid Identifier
-hbm:item.fluid_identifier:144, Fluid Identifier
-hbm:item.fluid_identifier:145, Fluid Identifier
-hbm:item.fluid_identifier:146, Fluid Identifier
-hbm:item.fluid_identifier:147, Fluid Identifier
-hbm:item.fluid_identifier:148, Fluid Identifier
-hbm:item.fluid_identifier:149, Fluid Identifier
-hbm:item.fluid_identifier:201, Fluid Identifier
-hbm:item.fluid_identifier:202, Fluid Identifier
-hbm:item.fluid_identifier:203, Fluid Identifier
-hbm:item.fluid_identifier:204, Fluid Identifier
-hbm:item.fluid_identifier:205, Fluid Identifier
-hbm:item.fluid_identifier:49, Fluid Identifier
-hbm:item.fluid_identifier:200, Fluid Identifier
-hbm:item.fluid_identifier:126, Fluid Identifier
-hbm:item.fluid_identifier:127, Fluid Identifier
-hbm:item.fluid_identifier:139, Fluid Identifier
-hbm:item.fluid_identifier:142, Fluid Identifier
-hbm:item.fluid_identifier:33, Fluid Identifier
-hbm:item.fluid_identifier:34, Fluid Identifier
-hbm:item.fluid_identifier:44, Fluid Identifier
-hbm:item.fluid_identifier:45, Fluid Identifier
-hbm:item.fluid_identifier:70, Fluid Identifier
-hbm:item.fluid_identifier:71, Fluid Identifier
-hbm:item.fluid_identifier:92, Fluid Identifier
-hbm:item.fluid_identifier:131, Fluid Identifier
-hbm:item.fluid_identifier:180, Fluid Identifier
-hbm:item.fluid_identifier:104, Fluid Identifier
-hbm:item.fluid_identifier:103, Fluid Identifier
-hbm:item.fluid_identifier:102, Fluid Identifier
-hbm:item.fluid_identifier:106, Fluid Identifier
-hbm:item.fluid_identifier:107, Fluid Identifier
-hbm:item.fluid_identifier:105, Fluid Identifier
-hbm:item.fluid_identifier:113, Fluid Identifier
-hbm:item.fluid_identifier:114, Fluid Identifier
-hbm:item.fluid_identifier:115, Fluid Identifier
-hbm:item.fluid_identifier:129, Fluid Identifier
-hbm:item.fluid_identifier:157, Fluid Identifier
-hbm:item.fluid_identifier:158, Fluid Identifier
-hbm:item.fluid_identifier:159, Fluid Identifier
-hbm:item.fluid_identifier:172, Fluid Identifier
-hbm:item.fluid_identifier:173, Fluid Identifier
-hbm:item.fluid_identifier:1000, Fluid Identifier
 hbm:item.fluid_identifier_multi, Multi Fluid Identifier
 hbm:item.fluid_icon:1, Water
 hbm:item.fluid_icon:60, Heavy Water
@@ -14721,6 +14508,7 @@ hbm:item.gun_double_barrel_sacred_dragon, Sacred Dragon
 hbm:item.gun_n_i_4_n_i, N I 4 N I
 hbm:item.gun_fireext, Fire Extinguisher
 hbm:item.gun_charge_thrower, Charge Thrower
+hbm:item.gun_drill, Powered Drill
 hbm:item.ammo_standard:0, Ball and Powder
 hbm:item.ammo_standard:1, Flint and Powder
 hbm:item.ammo_standard:2, Iron Ball and Powder
@@ -14870,6 +14658,17 @@ hbm:item.weapon_mod_special:14, Laser Rifle Extended Capacitor
 hbm:item.weapon_mod_special:15, Laser Rifle Automatic Receiver
 hbm:item.weapon_mod_special:16, Two Nickels
 hbm:item.weapon_mod_special:17, Two Gold Doubloons
+hbm:item.weapon_mod_special:18, Powered Drill - High-Speed Steel Drillbit
+hbm:item.weapon_mod_special:19, Powered Drill - Weapon Steel Drillbit
+hbm:item.weapon_mod_special:20, Powered Drill - Technetium Steel Drillbit
+hbm:item.weapon_mod_special:21, Powered Drill - Saturnite Drillbit
+hbm:item.weapon_mod_special:22, Powered Drill - Diesel Engine
+hbm:item.weapon_mod_special:23, Powered Drill - Aircraft Engine
+hbm:item.weapon_mod_special:24, Powered Drill - Electric Engine
+hbm:item.weapon_mod_special:25, Powered Drill - Turbo Engine
+hbm:item.weapon_mod_special:26, Powered Drill - Electromagnet
+hbm:item.weapon_mod_special:27, Powered Drill - Sifter
+hbm:item.weapon_mod_special:28, Powered Drill - Extension Canisters
 hbm:item.weapon_mod_caliber:0, 9mm Conversion Kit
 hbm:item.weapon_mod_caliber:1, .45 Conversion Kit
 hbm:item.weapon_mod_caliber:2, .22 LR Conversion Kit
@@ -15149,9 +14948,9 @@ hbm:item.elec_shovel, Spiral Drill
 hbm:item.dnt_sword, dinuatureum sword
 hbm:item.smashing_hammer, Smashing Hammer
 hbm:item.centri_stick, Centrifuge on a Stick
-hbm:item.drax, Terra Drill
-hbm:item.drax_mk2, Hardened Terra Drill
-hbm:item.drax_mk3, Schrabidic Terra Drill
+hbm:item.drax, Terra Drill (LEGACY)
+hbm:item.drax_mk2, Hardened Terra Drill (LEGACY)
+hbm:item.drax_mk3, Schrabidic Terra Drill (LEGACY)
 hbm:item.bismuth_pickaxe, Bismuth Pickaxe
 hbm:item.bismuth_axe, Bismuth Axe
 hbm:item.volcanic_pickaxe, Molten Pickaxe
@@ -16076,10 +15875,12 @@ ThermalDynamics:cover:0, Acacia Wood Cover
 ThermalDynamics:cover:0, Dark Oak Wood Cover
 ThermalDynamics:cover:0, Acacia Wood Stairs Cover
 ThermalDynamics:cover:0, Dark Oak Wood Stairs Cover
-ThermalDynamics:cover:0, Rotten Log Cover
-ThermalDynamics:cover:0, Compost Cover
-ThermalDynamics:cover:0, Winter Wheat Cover
-ThermalDynamics:cover:0, Weeds Cover
+ThermalDynamics:cover:0, Restonia Crystal Block Cover
+ThermalDynamics:cover:0, Palis Crystal Block Cover
+ThermalDynamics:cover:0, Diamatine Crystal Block Cover
+ThermalDynamics:cover:0, Void Crystal Block Cover
+ThermalDynamics:cover:0, Emeradic Crystal Block Cover
+ThermalDynamics:cover:0, Enori Crystal Block Cover
 ThermalDynamics:cover:0, Hay Bale Cover
 ThermalDynamics:cover:0, Carpet Cover
 ThermalDynamics:cover:0, Orange Carpet Cover
@@ -16106,12 +15907,6 @@ ThermalDynamics:cover:0, Double Tallgrass Cover
 ThermalDynamics:cover:0, Large Fern Cover
 ThermalDynamics:cover:0, Rose Bush Cover
 ThermalDynamics:cover:0, Peony Cover
-ThermalDynamics:cover:0, Restonia Crystal Block Cover
-ThermalDynamics:cover:0, Palis Crystal Block Cover
-ThermalDynamics:cover:0, Diamatine Crystal Block Cover
-ThermalDynamics:cover:0, Void Crystal Block Cover
-ThermalDynamics:cover:0, Emeradic Crystal Block Cover
-ThermalDynamics:cover:0, Enori Crystal Block Cover
 ThermalDynamics:cover:0, Black Lotus Cover
 ThermalDynamics:cover:0, Ethetic Green Block Cover
 ThermalDynamics:cover:0, Ethetic Quartz Cover
@@ -19580,6 +19375,7 @@ ThermalDynamics:cover:0, Lightstone Tile Stairs Cover
 ThermalDynamics:cover:0, Lightstone Brick Stairs Cover
 ThermalDynamics:cover:0, Lightstone Tile Slab Cover
 ThermalDynamics:cover:0, Lightstone Brick Slab Cover
+ThermalDynamics:cover:0, tile.brick_forgotten.name Cover
 ThermalDynamics:cover:0, Concrete Slab Cover
 ThermalDynamics:cover:0, Concrete Tile Slab Cover
 ThermalDynamics:cover:0, Asbestos Concrete Slab Cover
@@ -19746,7 +19542,7 @@ ThermalDynamics:cover:0, Strawberries Cover
 ThermalDynamics:cover:0, Wax Crop Cover
 ThermalDynamics:cover:0, Coffee Cover
 ThermalDynamics:cover:0, Tea Cover
-ThermalDynamics:cover:0, tile.vine_phosphor.name Cover
+ThermalDynamics:cover:0, Phosphor Vines Cover
 ThermalDynamics:cover:0, Glowing Mushroom Cover
 ThermalDynamics:cover:0, tile.mush_block.name Cover
 ThermalDynamics:cover:0, tile.mush_block_stem.name Cover

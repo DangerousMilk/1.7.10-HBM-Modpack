@@ -876,7 +876,7 @@
     {
       "name": "purex.vitliquid",
       "inputItem": [
-        ["item","hbm:tile.sand_lead"]
+        ["item","hbm:tile.sand_mix",1,1]
       ],
       "inputFluid": [
         ["WASTEFLUID",1000]
@@ -890,7 +890,7 @@
     {
       "name": "purex.vitgaseous",
       "inputItem": [
-        ["item","hbm:tile.sand_lead"]
+        ["item","hbm:tile.sand_mix",1,1]
       ],
       "inputFluid": [
         ["WASTEGAS",1000]
@@ -904,7 +904,7 @@
     {
       "name": "purex.vitsolid",
       "inputItem": [
-        ["item","hbm:tile.sand_lead"],
+        ["item","hbm:tile.sand_mix",1,1],
         ["item","hbm:item.nuclear_waste",4]
       ],
       "outputItem": [

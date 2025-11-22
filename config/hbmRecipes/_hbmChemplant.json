@@ -679,36 +679,6 @@
       ]
     },
     {
-      "id": 68,
-      "name": "VIT_LIQUID",
-      "duration": 100,
-      "fluidInput": [
-        ["WASTEFLUID",1000]
-      ],
-      "itemInput": [
-        ["item","hbm:tile.sand_lead"]
-      ],
-      "fluidOutput": [],
-      "itemOutput": [
-        ["hbm:item.nuclear_waste_vitrified"]
-      ]
-    },
-    {
-      "id": 69,
-      "name": "VIT_GAS",
-      "duration": 100,
-      "fluidInput": [
-        ["WASTEGAS",1000]
-      ],
-      "itemInput": [
-        ["item","hbm:tile.sand_lead"]
-      ],
-      "fluidOutput": [],
-      "itemOutput": [
-        ["hbm:item.nuclear_waste_vitrified"]
-      ]
-    },
-    {
       "id": 88,
       "name": "LUBRICANT",
       "duration": 20,
