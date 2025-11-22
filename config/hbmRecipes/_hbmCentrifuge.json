@@ -800,6 +800,15 @@
       ]
     },
     {
+      "input": ["dict","oreCertusQuartz"],
+      "output": [
+        ["appliedenergistics2:item.ItemMultiMaterial",2],
+        ["appliedenergistics2:item.ItemMultiMaterial",2],
+        ["appliedenergistics2:item.ItemMultiMaterial",2],
+        ["appliedenergistics2:item.ItemMultiMaterial",2]
+      ]
+    },
+    {
       "input": ["item","hbm:item.ore_cleaned",1,2],
       "output": [
         ["hbm:item.ore_separated",1,2],
