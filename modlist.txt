@@ -1,7 +1,5 @@
 +unimixins-all-1.7.10-0.1.22.jar
-1.7.10
 AIImprovements-1.7.10-0.0.1b8.jar
-ActuallyAdditions-1.7.10-r21.jar
 AppleCore-mc1.7.10-3.1.1.jar
 ArchitectureCraft-1.11.5.jar
 AsieLib-1.7.10-0.5.2.jar
@@ -35,7 +33,6 @@ NoMoreRecipeConflict-1.7.10-0.3.2.jar
 NotEnoughItems-2.8.39-GTNH.jar
 OpenComputers-MC1.7.10-1.8.9a+a430047-universal.jar
 OpenPrinter-MC1.7.10-0.1.0.132.jar
-OpenSecurity
 OpenSecurity-1.7.10-1.0-117.jar
 PassthroughSigns-1.7.10-1.0.1.B3-universal.jar
 Railcraft_1.7.10-9.12.2.1.jar
@@ -59,7 +56,6 @@ birdsfoods-1.7.10 - 3.1.jar
 bugtorch-1.2.14.jar
 buildcraft-7.1.27-core.jar
 buildcraft-7.1.27-transport.jar
-carpentersblocks
 catwalks-2.0.4.jar
 chisel-2.17.5-GTNH.jar
 chiseltones-1.2.0-GTNH.jar
@@ -72,11 +68,10 @@ falsepatternlib-mc1.7.10-1.10.5.jar
 fastcraft-1.25.jar
 gtnhlib-0.8.13.jar
 hodgepodge-2.7.17.jar
-lwjgl3ify-2.1.12-forgePatches.jar
 lwjgl3ify-2.1.12.jar
+lwjgl3ify-2.1.12-forgePatches.jar
 modernmarkings-0.3.11-1.7.10-Jurre.jar
 neodymium-1.7.10-0.2.5.jar
 notenoughwands-1.2.3.jar
-railcraft
 sit-1.7.10-v1.1.jar
 spark-1.10.19-forge1710.jar
