@@ -1,5 +1,6 @@
 +unimixins-all-1.7.10-0.1.22.jar
 AIImprovements-1.7.10-0.0.1b8.jar
+ActuallyAdditions-1.7.10-r21.jar
 AppleCore-mc1.7.10-3.1.1.jar
 ArchitectureCraft-1.11.5.jar
 AsieLib-1.7.10-0.5.2.jar
