@@ -1,0 +1,5 @@
+#!/bin/bash
+cd "$(dirname "$0")"
+#ls -1 ../../mods/ | grep -v ".disabled" > ../../modlist.txt
+ls -1X ../mods/ | grep .jar | grep -v .disabled > ../modlist.txt
+git add ../modlist.txt
