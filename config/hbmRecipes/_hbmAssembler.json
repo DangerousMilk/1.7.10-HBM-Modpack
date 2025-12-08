@@ -3248,17 +3248,6 @@
       "duration": 60
     },
     {
-      "output": ["hbm:item.multitool_hit"],
-      "input": [
-        ["dict","ingotAnyResistantAlloy",4],
-        ["dict","plateSteel",4],
-        ["dict","wireFineGold",12],
-        ["item","hbm:item.motor",4],
-        ["item","hbm:item.circuit",16,11]
-      ],
-      "duration": 100
-    },
-    {
       "output": ["hbm:item.boy_shielding"],
       "input": [
         ["dict","plateTungCar",12],
