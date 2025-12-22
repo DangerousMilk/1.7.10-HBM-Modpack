@@ -780,18 +780,6 @@
       "duration": 300
     },
     {
-      "output": ["hbm:tile.struct_iter_core"],
-      "input": [
-        ["dict","plateSextupleAnyResistantAlloy",6],
-        ["dict","plateSextupleTungsten",6],
-        ["dict","plateTungCar",12],
-        ["item","hbm:item.coil_advanced_alloy",12],
-        ["dict","ingotAnyPlastic",8],
-        ["item","hbm:item.circuit",4,12]
-      ],
-      "duration": 600
-    },
-    {
       "output": ["hbm:item.mp_warhead_10_nuclear"],
       "input": [
         ["item","hbm:item.seg_10"],

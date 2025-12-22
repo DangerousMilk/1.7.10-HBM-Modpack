@@ -2191,6 +2191,7 @@ chisel:iron2:2, Block of Iron
 chisel:iron2:3, Block of Iron
 chisel:iron2:4, Block of Iron
 chisel:iron2:5, Block of Iron
+chisel:iron_block:0, Iron Block
 chisel:iron_block:1, Iron Block
 chisel:iron_block:2, Iron Block
 chisel:iron_block:3, Iron Block
@@ -2717,6 +2718,12 @@ chisel:technical4:4, Technical Block
 chisel:technical4:5, Technical Block
 chisel:technical4:6, Technical Block
 chisel:technical4:7, Technical Block
+chisel:technical4:8, Technical Block
+chisel:technical4:9, Technical Block
+chisel:technical4:10, Technical Block
+chisel:technical4:11, Technical Block
+chisel:technical4:12, Technical Block
+chisel:technical4:13, Technical Block
 chisel:templeblock:0, Temple Block
 chisel:templeblock:1, Temple Block
 chisel:templeblock:2, Temple Block
@@ -2968,6 +2975,22 @@ chisel:froglight:6, Froglight
 chisel:froglight:7, Froglight
 chisel:froglight:8, Froglight
 chisel:froglight:9, Froglight
+chisel:lantern:0, Lantern
+chisel:lantern:1, Lantern
+chisel:lantern:2, Lantern
+chisel:lantern:3, Lantern
+chisel:lantern:4, Lantern
+chisel:lantern:5, Lantern
+chisel:sheetmetal:0, Sheetmetal
+chisel:sheetmetal:1, Sheetmetal
+chisel:sheetmetal:2, Sheetmetal
+chisel:sheetmetal:3, Sheetmetal
+chisel:sheetmetal:4, Sheetmetal
+chisel:sheetmetal:5, Sheetmetal
+chisel:sheetmetal:6, Sheetmetal
+chisel:sheetmetal:7, Sheetmetal
+chisel:sheetmetal:8, Sheetmetal
+chisel:sheetmetal:9, Sheetmetal
 CarpentersBlocks:blockCarpentersBlock, Carpenter's Block
 CarpentersBlocks:blockCarpentersBarrier, Carpenter's Barrier
 CarpentersBlocks:blockCarpentersBed, Carpenter's Bed
@@ -4784,7 +4807,7 @@ hbm:tile.block_lead, Block of Lead
 hbm:tile.block_bismuth, Block of Bismuth
 hbm:tile.block_cadmium, Block of Cadmium
 hbm:tile.block_coltan, Block of Coltan
-hbm:tile.block_tantalium, Block of Tantalium
+hbm:tile.block_tantalium, Block of Tantalum
 hbm:tile.block_niobium, Block of Niobium
 hbm:tile.block_lithium, Block of Lithium
 hbm:tile.block_zirconium, Block of Zirconium
@@ -5484,8 +5507,6 @@ hbm:tile.machine_radgen, Radiation-Powered Engine
 hbm:tile.machine_cyclotron, Cyclotron
 hbm:tile.machine_exposure_chamber, Exposure Chamber
 hbm:tile.machine_rtg_grey, RT Generator
-hbm:tile.machine_geo, Geothermal Electric Generator
-hbm:tile.machine_amgen, Ambience Radiation Generator
 hbm:tile.machine_minirtg, Radio Isotope Cell
 hbm:tile.machine_powerrtg, PT Isotope Cell
 hbm:tile.machine_radiolysis, Radioisotope Thermoelectric Generator and Radiolysis Chamber
@@ -5663,7 +5684,7 @@ hbm:tile.capacitor_bus, Capacitor Bus
 hbm:tile.capacitor_copper, Copper Capacitor
 hbm:tile.capacitor_gold, Golden Capacitor
 hbm:tile.capacitor_niobium, Niobium Capacitor
-hbm:tile.capacitor_tantalium, Tantalium Capacitor
+hbm:tile.capacitor_tantalium, Tantalum Capacitor
 hbm:tile.capacitor_complex, Wavefunction Capacitor
 hbm:tile.capacitor_schrabidate, Schrabidate Capacitor
 hbm:tile.machine_transformer, 10k-20Hz Transformer
@@ -5677,7 +5698,7 @@ hbm:tile.machine_assembler, Assembly Machine (LEGACY)
 hbm:tile.machine_assembly_machine, Assembly Machine
 hbm:tile.machine_assemfac, Assembly Factory (LEGACY)
 hbm:tile.machine_assembly_factory, Assembly Factory
-hbm:tile.machine_precass, tile.machine_precass.name
+hbm:tile.machine_precass, Precision Assembly Machine
 hbm:tile.machine_chemplant, Chemical Plant (LEGACY)
 hbm:tile.machine_chemical_plant, Chemical Plant
 hbm:tile.machine_chemfac, Chemical Factory (LEGACY)
@@ -5734,6 +5755,7 @@ hbm:tile.machine_pyrooven, Pyrolysis Oven
 hbm:tile.machine_autosaw, Automatic Buzz Saw
 hbm:tile.machine_excavator, Large Mining Drill
 hbm:tile.machine_ore_slopper, Bedrock Ore Processor
+hbm:tile.machine_annihilator, Annihilator
 hbm:tile.machine_mining_laser, Mining Laser
 hbm:tile.barricade, Sand Bags
 hbm:tile.machine_turbofan, Turbofan
@@ -5741,6 +5763,7 @@ hbm:tile.machine_turbinegas, Combined Cycle Gas Turbine
 hbm:tile.machine_lpw2, LPW-2 Station Thruster
 hbm:tile.machine_htr3, LPW-3N Station Thruster
 hbm:tile.machine_htrf4, HTR-F4 Station Thruster
+hbm:tile.machine_htrf4neo, tile.machine_htrf4neo.name
 hbm:tile.machine_xenon_thruster, Xenon Station Thruster
 hbm:tile.machine_magma, Magma Drill
 hbm:tile.machine_schrabidium_transmutator, Schrabidium Transmutation Device (LEGACY)
@@ -5761,8 +5784,6 @@ hbm:tile.struct_scaffold, Launch Pad Scaffold Block
 hbm:tile.struct_launcher_core, Compact Launcher Core Component
 hbm:tile.struct_launcher_core_large, Launch Table Core Component
 hbm:tile.struct_soyuz_core, Soyuz Launcher Core Component
-hbm:tile.struct_iter_core, Fusion Reactor Core Component
-hbm:tile.struct_plasma_core, Plasma Heater Core Component
 hbm:tile.struct_torus_core, Fusion Reactor Vessel Core Component
 hbm:tile.struct_watz_core, Watz Powerplant Core Component
 hbm:tile.struct_icf_core, Inertial Confinement Fusion Reactor Core Component
@@ -6004,6 +6025,8 @@ hbm:tile.wand_loot, Structure Wand Block (Lootable)
 hbm:tile.wand_jigsaw, Structure Wand Block (Jigsaw)
 hbm:tile.wand_logic, Structure Wand Block (Logic)
 hbm:tile.wand_tandem, tile.wand_tandem.name
+hbm:tile.wand_structure:0, Structure Saving Block
+hbm:tile.wand_structure:1, Structure Loading Block
 hbm:tile.logic_block, Dungeon Action Block
 modernmarkings:tile.floor_marking_exit, Exit Floor Marking
 modernmarkings:tile.floor_marking_danger_red, Red Danger Floor Marking
@@ -7917,6 +7940,7 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Iron Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Iron Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Iron Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Iron Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Iron Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Laboratory Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Laboratory Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Laboratory Block
@@ -8259,6 +8283,12 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Transparent Technical Bloc
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Transparent Technical Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Industrial Technical Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Industrial Technical Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Technical Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Technical Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Technical Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Technical Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Technical Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Technical Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Technical Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Technical Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Technical Block
@@ -8508,6 +8538,22 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Froglight
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Froglight
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Froglight
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Froglight
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Lantern
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Lantern
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Lantern
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Lantern
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Lantern
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Lantern
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sheetmetal
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sheetmetal
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sheetmetal
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sheetmetal
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sheetmetal
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sheetmetal
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sheetmetal
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sheetmetal
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sheetmetal
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sheetmetal
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Ztone Tile
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Garden Soil
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Aurora
@@ -9796,7 +9842,7 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Lead
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Bismuth
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Cadmium
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Coltan
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Tantalium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Tantalum
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Niobium
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Lithium
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Zirconium
@@ -11591,7 +11637,7 @@ hbm:item.ingot_bismuth, Bismuth Ingot
 hbm:item.ingot_arsenic, Arsenic Ingot
 hbm:item.ingot_calcium, Calcium Ingot
 hbm:item.ingot_cadmium, Cadmium Ingot
-hbm:item.ingot_tantalium, Tantalium Ingot
+hbm:item.ingot_tantalium, Tantalum Ingot
 hbm:item.ingot_silicon, Silicon Boule
 hbm:item.ingot_niobium, Niobium Ingot
 hbm:item.ingot_beryllium, Beryllium Ingot
@@ -11807,7 +11853,7 @@ hbm:item.powder_calcium, Calcium Powder
 hbm:item.powder_cadmium, Cadmium Powder
 hbm:item.powder_coltan_ore, Crushed Coltan
 hbm:item.powder_coltan, Purified Tantalite
-hbm:item.powder_tantalium, Tantalium Powder
+hbm:item.powder_tantalium, Tantalum Powder
 hbm:item.powder_tektite, Tektite Powder
 hbm:item.powder_paleogenite, Paleogenite Powder
 hbm:item.powder_paleogenite_tiny, Tiny Pile of Paleogenite Powder
@@ -12279,7 +12325,7 @@ hbm:item.crystal_cinnebar, Cinnabar Crystals
 hbm:item.crystal_trixite, Trixite Crystals
 hbm:item.crystal_osmiridium, Osmiridium Crystals
 hbm:item.gem_sodalite, Sodalite
-hbm:item.gem_tantalium, Tantalium Polycrystal
+hbm:item.gem_tantalium, Tantalum Polycrystal
 hbm:item.gem_volcanic, Volcanic Gem
 hbm:item.gem_rad, Radioactive Gem
 hbm:item.gem_alexandrite, Alexandrite
@@ -12350,7 +12396,7 @@ hbm:item.nugget_lead, Lead Nugget
 hbm:item.nugget_menthol, Menthol Nugget
 hbm:item.nugget_bismuth, Bismuth Nugget
 hbm:item.nugget_arsenic, Arsenic Nugget
-hbm:item.nugget_tantalium, Tantalium Nugget
+hbm:item.nugget_tantalium, Tantalum Nugget
 hbm:item.nugget_silicon, Silicon Nugget
 hbm:item.nugget_niobium, Niobium Nugget
 hbm:item.nugget_beryllium, Beryllium Nugget
@@ -12572,6 +12618,7 @@ hbm:item.item_expensive:3, Radiation Resistant Plating
 hbm:item.item_expensive:4, Reinforced Ferrouranium Panels
 hbm:item.item_expensive:5, Mainframe
 hbm:item.item_expensive:6, Bronze Structural Elements
+hbm:item.item_expensive:7, Plastic Panels
 hbm:item.item_secret:0, Composition SB-26
 hbm:item.item_secret:1, Proprietary Control Unit
 hbm:item.item_secret:2, Selenium Steel
@@ -12733,7 +12780,7 @@ hbm:item.shimmer_handle, Reinforced Polymer Handle
 hbm:item.circuit:0, Vacuum Tube
 hbm:item.circuit:29, Incandescent Seven Segment Display
 hbm:item.circuit:1, Capacitor
-hbm:item.circuit:2, Tantalium Capacitor
+hbm:item.circuit:2, Tantalum Capacitor
 hbm:item.circuit:21, Atomic Clock
 hbm:item.circuit:3, Printed Circuit Board
 hbm:item.circuit:4, Printed Silicon Wafer
@@ -18210,6 +18257,7 @@ ThermalDynamics:cover:0, Iron Block Cover
 ThermalDynamics:cover:0, Iron Block Cover
 ThermalDynamics:cover:0, Iron Block Cover
 ThermalDynamics:cover:0, Iron Block Cover
+ThermalDynamics:cover:0, Iron Block Cover
 ThermalDynamics:cover:0, Jack o'Lantern Cover
 ThermalDynamics:cover:0, Jack o'Lantern Cover
 ThermalDynamics:cover:0, Jack o'Lantern Cover
@@ -18694,6 +18742,12 @@ ThermalDynamics:cover:0, Transparent Technical Block Cover
 ThermalDynamics:cover:0, Transparent Technical Block Cover
 ThermalDynamics:cover:0, Industrial Technical Block Cover
 ThermalDynamics:cover:0, Industrial Technical Block Cover
+ThermalDynamics:cover:0, Technical Block Cover
+ThermalDynamics:cover:0, Technical Block Cover
+ThermalDynamics:cover:0, Technical Block Cover
+ThermalDynamics:cover:0, Technical Block Cover
+ThermalDynamics:cover:0, Technical Block Cover
+ThermalDynamics:cover:0, Technical Block Cover
 ThermalDynamics:cover:0, Technical Block Cover
 ThermalDynamics:cover:0, Technical Block Cover
 ThermalDynamics:cover:0, Technical Block Cover
@@ -18953,6 +19007,22 @@ ThermalDynamics:cover:0, Froglight Cover
 ThermalDynamics:cover:0, Froglight Cover
 ThermalDynamics:cover:0, Froglight Cover
 ThermalDynamics:cover:0, Froglight Cover
+ThermalDynamics:cover:0, Lantern Cover
+ThermalDynamics:cover:0, Lantern Cover
+ThermalDynamics:cover:0, Lantern Cover
+ThermalDynamics:cover:0, Lantern Cover
+ThermalDynamics:cover:0, Lantern Cover
+ThermalDynamics:cover:0, Lantern Cover
+ThermalDynamics:cover:0, Sheetmetal Cover
+ThermalDynamics:cover:0, Sheetmetal Cover
+ThermalDynamics:cover:0, Sheetmetal Cover
+ThermalDynamics:cover:0, Sheetmetal Cover
+ThermalDynamics:cover:0, Sheetmetal Cover
+ThermalDynamics:cover:0, Sheetmetal Cover
+ThermalDynamics:cover:0, Sheetmetal Cover
+ThermalDynamics:cover:0, Sheetmetal Cover
+ThermalDynamics:cover:0, Sheetmetal Cover
+ThermalDynamics:cover:0, Sheetmetal Cover
 ThermalDynamics:cover:0, Sturdy Rail Cover
 ThermalDynamics:cover:0, Sturdy Powered Rail Cover
 ThermalDynamics:cover:0, Sturdy Detector Rail Cover
@@ -20576,7 +20646,7 @@ ThermalDynamics:cover:0, Block of Lead Cover
 ThermalDynamics:cover:0, Block of Bismuth Cover
 ThermalDynamics:cover:0, Block of Cadmium Cover
 ThermalDynamics:cover:0, Block of Coltan Cover
-ThermalDynamics:cover:0, Block of Tantalium Cover
+ThermalDynamics:cover:0, Block of Tantalum Cover
 ThermalDynamics:cover:0, Block of Niobium Cover
 ThermalDynamics:cover:0, Block of Lithium Cover
 ThermalDynamics:cover:0, Block of Zirconium Cover

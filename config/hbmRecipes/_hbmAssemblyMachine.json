@@ -401,6 +401,22 @@
       "power": 250000
     },
     {
+      "name": "ass.explastic",
+      "inputItem": [
+        ["dict","ingotAnyHardPlastic",4],
+        ["dict","ingotAnyPlastic",16],
+        ["dict","ingotAnyRubber",8]
+      ],
+      "inputFluid": [
+        ["SOLVENT",1000]
+      ],
+      "outputItem": [
+        ["single",["hbm:item.item_expensive",1,7]]
+      ],
+      "duration": 600,
+      "power": 20000
+    },
+    {
       "name": "ass.hazcloth",
       "inputItem": [
         ["dict","dustLead",4],
@@ -1038,6 +1054,20 @@
       "power": 100
     },
     {
+      "name": "ass.precass",
+      "inputItem": [
+        ["dict","plateTripleSteel",8],
+        ["dict","ingotZirconium",8],
+        ["item","hbm:item.motor",4],
+        ["item","hbm:item.circuit",4,11]
+      ],
+      "outputItem": [
+        ["single",["hbm:tile.machine_precass"]]
+      ],
+      "duration": 1200,
+      "power": 100
+    },
+    {
       "name": "ass.centrifuge",
       "inputItem": [
         ["item","hbm:item.centrifuge_element"],
@@ -1211,9 +1241,8 @@
       "inputItem": [
         ["item","hbm:tile.steel_scaffold",16],
         ["dict","shellSteel",6],
-        ["dict","ingotAnyPlastic",4],
-        ["dict","ingotNiobium",2],
-        ["item","hbm:item.catalyst_clay",12]
+        ["dict","ingotDesh",12],
+        ["dict","ingotNiobium",4]
       ],
       "outputItem": [
         ["single",["hbm:tile.machine_catalytic_cracker"]]
@@ -2016,8 +2045,7 @@
       "name": "ass.tank",
       "inputItem": [
         ["dict","plateSteel",8],
-        ["dict","shellSteel",4],
-        ["dict","anyTar",4]
+        ["dict","shellSteel",4]
       ],
       "outputItem": [
         ["single",["hbm:tile.machine_fluidtank"]]

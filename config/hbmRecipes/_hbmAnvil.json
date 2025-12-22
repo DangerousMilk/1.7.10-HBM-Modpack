@@ -409,6 +409,20 @@
     },
     {
       "inputs": [
+        ["item","minecraft:stonebrick",16],
+        ["item","hbm:item.ingot_firebrick",16],
+        ["dict","ingotIron",8],
+        ["dict","ingotCopper",8]
+      ],
+      "outputs": [
+        ["hbm:tile.machine_annihilator",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
         ["dict","ingotAluminum"]
       ],
       "outputs": [
