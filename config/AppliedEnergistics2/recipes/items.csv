@@ -2991,6 +2991,108 @@ chisel:sheetmetal:6, Sheetmetal
 chisel:sheetmetal:7, Sheetmetal
 chisel:sheetmetal:8, Sheetmetal
 chisel:sheetmetal:9, Sheetmetal
+chisel:moss:0, Moss
+chisel:moss:1, Moss
+chisel:moss:2, Moss
+chisel:moss:3, Moss
+chisel:moss:4, Moss
+chisel:moss:5, Moss
+chisel:moss:6, Moss
+chisel:moss:7, Moss
+chisel:moss:8, Moss
+chisel:moss:9, Moss
+chisel:moss:10, Moss
+chisel:electrumblock:0, Block of Electrum
+chisel:electrumblock:1, Block of Electrum
+chisel:electrumblock:2, Block of Electrum
+chisel:electrumblock:3, Block of Electrum
+chisel:electrumblock:4, Block of Electrum
+chisel:electrumblock:5, Block of Electrum
+chisel:electrumblock:6, Block of Electrum
+chisel:invarblock:0, Block of Invar
+chisel:invarblock:1, Block of Invar
+chisel:invarblock:2, Block of Invar
+chisel:invarblock:3, Block of Invar
+chisel:invarblock:4, Block of Invar
+chisel:invarblock:5, Block of Invar
+chisel:invarblock:6, Block of Invar
+chisel:nickelblock:0, Block of Nickel
+chisel:nickelblock:1, Block of Nickel
+chisel:nickelblock:2, Block of Nickel
+chisel:nickelblock:3, Block of Nickel
+chisel:nickelblock:4, Block of Nickel
+chisel:nickelblock:5, Block of Nickel
+chisel:nickelblock:6, Block of Nickel
+chisel:platinumblock:0, Block of Platinum
+chisel:platinumblock:1, Block of Platinum
+chisel:platinumblock:2, Block of Platinum
+chisel:platinumblock:3, Block of Platinum
+chisel:platinumblock:4, Block of Platinum
+chisel:platinumblock:5, Block of Platinum
+chisel:platinumblock:6, Block of Platinum
+chisel:wroughtironblock:0, Block of Wrought Iron
+chisel:wroughtironblock:1, Block of Wrought Iron
+chisel:wroughtironblock:2, Block of Wrought Iron
+chisel:wroughtironblock:3, Block of Wrought Iron
+chisel:wroughtironblock:4, Block of Wrought Iron
+chisel:wroughtironblock:5, Block of Wrought Iron
+chisel:wroughtironblock:6, Block of Wrought Iron
+chisel:wroughtironblock:7, Block of Wrought Iron
+chisel:titaniumblock:0, Block of Titanium
+chisel:titaniumblock:1, Block of Titanium
+chisel:titaniumblock:2, Block of Titanium
+chisel:titaniumblock:3, Block of Titanium
+chisel:titaniumblock:4, Block of Titanium
+chisel:titaniumblock:5, Block of Titanium
+chisel:titaniumblock:6, Block of Titanium
+chisel:titaniumblock:7, Block of Titanium
+chisel:stainlesssteelblock:0, Block of Stainless Steel
+chisel:stainlesssteelblock:1, Block of Stainless Steel
+chisel:stainlesssteelblock:2, Block of Stainless Steel
+chisel:stainlesssteelblock:3, Block of Stainless Steel
+chisel:stainlesssteelblock:4, Block of Stainless Steel
+chisel:stainlesssteelblock:5, Block of Stainless Steel
+chisel:stainlesssteelblock:6, Block of Stainless Steel
+chisel:stainlesssteelblock:7, Block of Stainless Steel
+chisel:tungstensteelblock:0, Block of Tungstensteel
+chisel:tungstensteelblock:1, Block of Tungstensteel
+chisel:tungstensteelblock:2, Block of Tungstensteel
+chisel:tungstensteelblock:3, Block of Tungstensteel
+chisel:tungstensteelblock:4, Block of Tungstensteel
+chisel:tungstensteelblock:5, Block of Tungstensteel
+chisel:tungstensteelblock:6, Block of Tungstensteel
+chisel:tungstensteelblock:7, Block of Tungstensteel
+chisel:rppblock:0, Block of Rhodium-Plated Palladium
+chisel:rppblock:1, Block of Rhodium-Plated Palladium
+chisel:rppblock:2, Block of Rhodium-Plated Palladium
+chisel:rppblock:3, Block of Rhodium-Plated Palladium
+chisel:rppblock:4, Block of Rhodium-Plated Palladium
+chisel:rppblock:5, Block of Rhodium-Plated Palladium
+chisel:rppblock:6, Block of Rhodium-Plated Palladium
+chisel:rppblock:7, Block of Rhodium-Plated Palladium
+chisel:iridiumblock:0, Block of Iridium
+chisel:iridiumblock:1, Block of Iridium
+chisel:iridiumblock:2, Block of Iridium
+chisel:iridiumblock:3, Block of Iridium
+chisel:iridiumblock:4, Block of Iridium
+chisel:iridiumblock:5, Block of Iridium
+chisel:iridiumblock:6, Block of Iridium
+chisel:iridiumblock:7, Block of Iridium
+chisel:osmiumblock:0, Block of Osmium
+chisel:osmiumblock:1, Block of Osmium
+chisel:osmiumblock:2, Block of Osmium
+chisel:osmiumblock:3, Block of Osmium
+chisel:osmiumblock:4, Block of Osmium
+chisel:osmiumblock:5, Block of Osmium
+chisel:osmiumblock:6, Block of Osmium
+chisel:osmiumblock:7, Block of Osmium
+chisel:cobaltblock:0, Block of Cobalt
+chisel:cobaltblock:1, Block of Cobalt
+chisel:cobaltblock:2, Block of Cobalt
+chisel:cobaltblock:3, Block of Cobalt
+chisel:cobaltblock:4, Block of Cobalt
+chisel:cobaltblock:5, Block of Cobalt
+chisel:cobaltblock:6, Block of Cobalt
 CarpentersBlocks:blockCarpentersBlock, Carpenter's Block
 CarpentersBlocks:blockCarpentersBarrier, Carpenter's Barrier
 CarpentersBlocks:blockCarpentersBed, Carpenter's Bed
@@ -4693,8 +4795,6 @@ hbm:tile.ore_bedrock_oil:7, Bedrock Oil Deposit
 hbm:tile.ore_bedrock_oil:8, Bedrock Oil Deposit
 hbm:tile.ore_bedrock_oil:9, Bedrock Oil Deposit
 hbm:tile.ore_bedrock_oil:10, Bedrock Oil Deposit
-hbm:tile.ore_coal_oil, Oily Coal Ore
-hbm:tile.ore_coal_oil_burning, Burning Oily Coal Ore
 hbm:tile.ore_nether_coal, Burning Nether Coal Ore
 hbm:tile.ore_nether_smoldering, Smoldering Netherrack
 hbm:tile.ore_nether_uranium, Nether Uranium Ore
@@ -4859,11 +4959,6 @@ hbm:tile.block_polymer, Block of Polymer
 hbm:tile.block_bakelite, Block of Bakelite
 hbm:tile.block_rubber, Block of Rubber
 hbm:tile.block_australium, Block of Australium
-hbm:tile.block_weidanium, Block of Weidanium
-hbm:tile.block_reiium, Block of Reiium
-hbm:tile.block_unobtainium, Block of Unobtainium
-hbm:tile.block_daffergon, Block of Daffergon
-hbm:tile.block_verticium, Block of Verticium
 hbm:tile.block_cap:0, Block of Nuka Cola Bottle Caps
 hbm:tile.block_cap:1, Block of Nuka Cola Quantum Bottle Caps
 hbm:tile.block_cap:2, Block of S~Cola Bottle Caps
@@ -5511,8 +5606,6 @@ hbm:tile.machine_minirtg, Radio Isotope Cell
 hbm:tile.machine_powerrtg, PT Isotope Cell
 hbm:tile.machine_radiolysis, Radioisotope Thermoelectric Generator and Radiolysis Chamber
 hbm:tile.machine_hephaestus, Geothermal Heat Exchanger
-hbm:tile.machine_spp_bottom, ZPE Potential Generator (Bottom)
-hbm:tile.machine_spp_top, ZPE Potential Generator (Top)
 hbm:tile.machine_solar, Solar Panel
 hbm:tile.machine_stardar, StarDar
 hbm:tile.machine_drive_processor, Drive Processor
@@ -5622,6 +5715,7 @@ hbm:tile.fluid_duct_paintable, Paintable Coated Universal Fluid Duct
 hbm:tile.pipe_anchor, Pipe Anchor
 hbm:tile.fluid_duct_gauge, Flow Gauge Pipe
 hbm:tile.fluid_valve, Fluid Valve
+hbm:tile.fluid_counter_valve, Fluid Valve with Counter
 hbm:tile.fluid_switch, Redstone Fluid Valve
 hbm:tile.fluid_pump, Flow Control Pump
 hbm:tile.machine_drain, Drainage Pipe
@@ -5674,19 +5768,21 @@ hbm:tile.barrel_iron, Iron Barrel
 hbm:tile.barrel_steel, Steel Barrel
 hbm:tile.barrel_tcalloy, Technetium Steel Barrel
 hbm:tile.barrel_antimatter, Magnetic Antimatter Container
-hbm:tile.machine_battery_potato, Potato Battery Block
-hbm:tile.machine_battery, Energy Storage Block
-hbm:tile.machine_lithium_battery, Li-Ion Energy Storage Block
-hbm:tile.machine_schrabidium_battery, Schrabidium Energy Storage Block
-hbm:tile.machine_dineutronium_battery, Spark Energy Storage Block
-hbm:tile.machine_fensu, FEnSU
-hbm:tile.capacitor_bus, Capacitor Bus
-hbm:tile.capacitor_copper, Copper Capacitor
-hbm:tile.capacitor_gold, Golden Capacitor
-hbm:tile.capacitor_niobium, Niobium Capacitor
-hbm:tile.capacitor_tantalium, Tantalum Capacitor
-hbm:tile.capacitor_complex, Wavefunction Capacitor
-hbm:tile.capacitor_schrabidate, Schrabidate Capacitor
+hbm:tile.machine_battery_socket, Battery Socket
+hbm:tile.machine_battery_redd, FEnSU
+hbm:tile.machine_battery_potato, Potato Battery Block (LEGACY)
+hbm:tile.machine_battery, Energy Storage Block (LEGACY)
+hbm:tile.machine_lithium_battery, Li-Ion Energy Storage Block (LEGACY)
+hbm:tile.machine_schrabidium_battery, Schrabidium Energy Storage Block (LEGACY)
+hbm:tile.machine_dineutronium_battery, Spark Energy Storage Block (LEGACY)
+hbm:tile.machine_fensu, FEnSU (LEGACY)
+hbm:tile.capacitor_bus, Capacitor Bus (LEGACY)
+hbm:tile.capacitor_copper, Old Capacitor
+hbm:tile.capacitor_gold, Golden Capacitor (LEGACY)
+hbm:tile.capacitor_niobium, Niobium Capacitor (LEGACY)
+hbm:tile.capacitor_tantalium, Tantalum Capacitor (LEGACY)
+hbm:tile.capacitor_complex, Wavefunction Capacitor (LEGACY)
+hbm:tile.capacitor_schrabidate, Schrabidate Capacitor (LEGACY)
 hbm:tile.machine_transformer, 10k-20Hz Transformer
 hbm:tile.machine_transformer_dnt, DNT-20Hz Transformer
 hbm:tile.machine_converter_he_rf, HE to RF Converter
@@ -5762,12 +5858,10 @@ hbm:tile.machine_turbofan, Turbofan
 hbm:tile.machine_turbinegas, Combined Cycle Gas Turbine
 hbm:tile.machine_lpw2, LPW-2 Station Thruster
 hbm:tile.machine_htr3, LPW-3N Station Thruster
-hbm:tile.machine_htrf4, HTR-F4 Station Thruster
+hbm:tile.machine_htrf4, HTR-F4 Station Thruster (LEGACY)
 hbm:tile.machine_htrf4neo, tile.machine_htrf4neo.name
 hbm:tile.machine_xenon_thruster, Xenon Station Thruster
 hbm:tile.machine_magma, Magma Drill
-hbm:tile.machine_schrabidium_transmutator, Schrabidium Transmutation Device (LEGACY)
-hbm:tile.machine_discharger, Matter Discharging Device (LEGACY)
 hbm:tile.machine_teleporter, Teleporter
 hbm:tile.teleanchor, Teleportation Anchor
 hbm:tile.field_disturber, High Energy Field Jammer
@@ -5834,10 +5928,6 @@ hbm:tile.pwr_casing, PWR Pressure Vessel
 hbm:tile.pwr_port, PWR Access Port
 hbm:tile.pwr_controller, PWR Controller
 hbm:tile.pwr_block, PWR
-hbm:tile.fusion_conductor:0, Superconducting Magnet
-hbm:tile.fusion_conductor:1, Superconducting Magnet (Welded)
-hbm:tile.fusion_center, Central Magnet Piece
-hbm:tile.fusion_motor, Magnet Motor Piece
 hbm:tile.fusion_heater, Plasma Heater Component
 hbm:tile.fusion_hatch, Duct Deco Block
 hbm:tile.plasma, Plasma
@@ -5849,6 +5939,7 @@ hbm:tile.fusion_component:2, Fusion Reactor Blanket
 hbm:tile.fusion_component:3, Fusion Reactor Piping
 hbm:tile.fusion_torus, Fusion Reactor Vessel
 hbm:tile.fusion_klystron, Klystron
+hbm:tile.fusion_klystron_creative, Creative Klystron
 hbm:tile.fusion_breeder, Fusion Reactor Breeding Chamber
 hbm:tile.fusion_collector, Fusion Reactor Collector Chamber
 hbm:tile.fusion_boiler, Fusion Reactor Boiler
@@ -5993,9 +6084,6 @@ hbm:tile.pink_log, Pink Log
 hbm:tile.pink_planks, Pink Wood Planks
 hbm:tile.pink_slab, Pink Wood Slab
 hbm:tile.pink_double_slab, tile.pink_double_slab.name
-hbm:tile.pink_stairs, Pink Wood Stairs
-hbm:tile.atmosphere_editor, Atmosphere Editor
-hbm:tile.transporter_rocket, Rocket Transporter Pad
 minecraft:record_13, Music Disc
 minecraft:record_cat, Music Disc
 minecraft:record_blocks, Music Disc
@@ -6008,6 +6096,9 @@ minecraft:record_strad, Music Disc
 minecraft:record_ward, Music Disc
 minecraft:record_11, Music Disc
 minecraft:record_wait, Music Disc
+hbm:tile.pink_stairs, Pink Wood Stairs
+hbm:tile.atmosphere_editor, Atmosphere Editor
+hbm:tile.transporter_rocket, Rocket Transporter Pad
 hbm:tile.orbital_station, Orbital Station Core
 hbm:tile.orbital_station_port, Orbital Station Port
 hbm:tile.orbital_station_launcher, Orbital Station Launching Port
@@ -6168,6 +6259,8 @@ modernmarkings:tile.wall_marking_ppe_glasses, PPE Glasses Wall Marking
 modernmarkings:tile.wall_marking_ppe_highvis, PPE High-Vis Wall Marking
 modernmarkings:tile.wall_marking_ppe_mask, PPE Mask Wall Marking
 modernmarkings:tile.wall_marking_ppe_suit, PPE Suit Wall Marking
+modernmarkings:tile.wall_marking_no_safety, tile.wall_marking_no_safety.name
+modernmarkings:tile.wall_marking_smoking_first, tile.wall_marking_smoking_first.name
 modernmarkings:tile.wall_marking_hazard_barbedwire, Hazard Barbed Wire Wall Marking
 modernmarkings:tile.wall_marking_hazard_highwater, Hazard Highwater Wall Marking
 modernmarkings:tile.wall_marking_hazard_wither, Hazard Wither Wall Marking
@@ -8554,6 +8647,108 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Sheetmetal
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Sheetmetal
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Sheetmetal
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Sheetmetal
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Moss
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Moss
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Moss
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Moss
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Moss
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Moss
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Moss
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Moss
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Moss
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Moss
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Moss
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Electrum
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Electrum
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Electrum
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Electrum
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Electrum
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Electrum
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Electrum
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Invar
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Invar
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Invar
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Invar
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Invar
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Invar
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Invar
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Nickel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Nickel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Nickel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Nickel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Nickel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Nickel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Nickel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Platinum
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Platinum
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Platinum
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Platinum
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Platinum
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Platinum
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Platinum
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Wrought Iron
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Wrought Iron
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Wrought Iron
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Wrought Iron
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Wrought Iron
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Wrought Iron
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Wrought Iron
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Wrought Iron
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Titanium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Titanium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Titanium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Titanium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Titanium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Titanium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Titanium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Titanium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Stainless Steel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Stainless Steel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Stainless Steel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Stainless Steel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Stainless Steel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Stainless Steel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Stainless Steel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Stainless Steel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Tungstensteel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Tungstensteel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Tungstensteel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Tungstensteel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Tungstensteel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Tungstensteel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Tungstensteel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Tungstensteel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Rhodium-Plated Palladium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Rhodium-Plated Palladium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Rhodium-Plated Palladium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Rhodium-Plated Palladium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Rhodium-Plated Palladium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Rhodium-Plated Palladium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Rhodium-Plated Palladium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Rhodium-Plated Palladium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Iridium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Iridium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Iridium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Iridium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Iridium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Iridium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Iridium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Iridium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Osmium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Osmium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Osmium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Osmium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Osmium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Osmium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Osmium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Osmium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Cobalt
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Cobalt
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Cobalt
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Cobalt
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Cobalt
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Cobalt
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Cobalt
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Ztone Tile
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Garden Soil
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Aurora
@@ -9742,7 +9937,6 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Bedrock Oil Deposit
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Bedrock Oil Deposit
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Bedrock Oil Deposit
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Bedrock Oil Deposit
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Oily Coal Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Burning Nether Coal Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Smoldering Netherrack
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Nether Plutonium Ore
@@ -9886,11 +10080,6 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Polymer
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Bakelite
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Rubber
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Australium
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Weidanium
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Reiium
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Unobtainium
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Daffergon
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Verticium
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Nuka Cola Bottle Caps
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Nuka Cola Quantum Bottle Caps
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of S~Cola Bottle Caps
@@ -10105,7 +10294,6 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Quartz Sand
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Silo Hatch Frame
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Silo Hatch Opener
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Burner Press Preheater
-appliedenergistics2:item.ItemFacade:0, Cable Facade - ZPE Potential Generator (Top)
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Particle Accelerator Plating
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Particle Accelerator Plating (Blue)
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Particle Accelerator Plating (Black)
@@ -10123,7 +10311,7 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Dense Chlorophyte Coil
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Dense Mese Coil
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Particle Accelerator Analysis Chamber Wall
 appliedenergistics2:item.ItemFacade:0, Cable Facade - RBMK Steam Connector
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Capacitor Bus
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Capacitor Bus (LEGACY)
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Old Boiler
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Sand Bags
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Teleportation Anchor
@@ -10162,10 +10350,6 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - PWR Neutron Source
 appliedenergistics2:item.ItemFacade:0, Cable Facade - PWR Neutron Reflector
 appliedenergistics2:item.ItemFacade:0, Cable Facade - PWR Pressure Vessel
 appliedenergistics2:item.ItemFacade:0, Cable Facade - PWR Access Port
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Superconducting Magnet
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Superconducting Magnet (Welded)
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Central Magnet Piece
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Magnet Motor Piece
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Plasma Heater Component
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Duct Deco Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Superconducting BSCCO Coils
@@ -10257,70 +10441,69 @@ appliedenergistics2:item.ItemPaintBall:32, Paint Ball - Lumen Brown
 appliedenergistics2:item.ItemPaintBall:33, Paint Ball - Lumen Green
 appliedenergistics2:item.ItemPaintBall:34, Paint Ball - Lumen Red
 appliedenergistics2:item.ItemPaintBall:35, Paint Ball - Lumen Black
-appliedenergistics2:item.ItemMultiMaterial:28, Advanced Card
-appliedenergistics2:item.ItemMultiMaterial:44, Annihilation Core
-appliedenergistics2:item.ItemMultiMaterial:25, Basic Card
-appliedenergistics2:item.ItemMultiMaterial:52, Blank Pattern
-appliedenergistics2:item.ItemMultiMaterial:23, Calculation Processor
-appliedenergistics2:item.ItemMultiMaterial:13, Inscriber Calculation Press
-appliedenergistics2:item.ItemMultiMaterial:16, Printed Calculation Circuit
-appliedenergistics2:item.ItemMultiMaterial:63, Advanced Blocking Card
-appliedenergistics2:item.ItemMultiMaterial:27, Capacity Card
-appliedenergistics2:item.ItemMultiMaterial:53, Crafting Card
-appliedenergistics2:item.ItemMultiMaterial:69, Equal Distribution Card
-appliedenergistics2:item.ItemMultiMaterial:66, Fake Crafting Card
-appliedenergistics2:item.ItemMultiMaterial:29, Fuzzy Card
-appliedenergistics2:item.ItemMultiMaterial:31, Inverter Card
-appliedenergistics2:item.ItemMultiMaterial:65, Locking Card
-appliedenergistics2:item.ItemMultiMaterial:55, Oredictionary Filter Card
-appliedenergistics2:item.ItemMultiMaterial:54, Pattern Capacity Card
-appliedenergistics2:item.ItemMultiMaterial:62, Pattern Refiller Card
-appliedenergistics2:item.ItemMultiMaterial:26, Redstone Card
-appliedenergistics2:item.ItemMultiMaterial:30, Acceleration Card
-appliedenergistics2:item.ItemMultiMaterial:64, Sticky Card
-appliedenergistics2:item.ItemMultiMaterial:56, Hyper-Acceleration Card
-appliedenergistics2:item.ItemMultiMaterial:67, Superluminal Acceleration Card
-appliedenergistics2:item.ItemMultiMaterial:68, Overflow Void Card
-appliedenergistics2:item.ItemMultiMaterial:58, §d1024k§r ME Storage Component
-appliedenergistics2:item.ItemMultiMaterial:34, 128³ Spatial Component
-appliedenergistics2:item.ItemMultiMaterial:60, §516384k§r ME Storage Component
-appliedenergistics2:item.ItemMultiMaterial:33, 16³ Spatial Component
-appliedenergistics2:item.ItemMultiMaterial:37, §a16k§r ME Storage Component
-appliedenergistics2:item.ItemMultiMaterial:35, §61k§r ME Storage Component
-appliedenergistics2:item.ItemMultiMaterial:57, §9256k§r ME Storage Component
-appliedenergistics2:item.ItemMultiMaterial:32, 2³ Spatial Component
-appliedenergistics2:item.ItemMultiMaterial:59, §c4096k§r ME Storage Component
-appliedenergistics2:item.ItemMultiMaterial:36, §e4k§r ME Storage Component
-appliedenergistics2:item.ItemMultiMaterial:38, §b64k§r ME Storage Component
 appliedenergistics2:item.ItemMultiMaterial:0, Certus Quartz Crystal
 appliedenergistics2:item.ItemMultiMaterial:1, Charged Certus Quartz Crystal
 appliedenergistics2:item.ItemMultiMaterial:2, Certus Quartz Dust
-appliedenergistics2:item.ItemMultiMaterial:61, ME Advanced Storage Housing
-appliedenergistics2:item.ItemMultiMaterial:39, ME Storage Housing
+appliedenergistics2:item.ItemMultiMaterial:45, Sky Stone Dust
 appliedenergistics2:item.ItemMultiMaterial:46, Ender Dust
-appliedenergistics2:item.ItemMultiMaterial:24, Engineering Processor
-appliedenergistics2:item.ItemMultiMaterial:14, Inscriber Engineering Press
-appliedenergistics2:item.ItemMultiMaterial:17, Printed Engineering Circuit
 appliedenergistics2:item.ItemMultiMaterial:4, Flour
+appliedenergistics2:item.ItemMultiMaterial:6, Matter Ball
 appliedenergistics2:item.ItemMultiMaterial:7, Fluix Crystal
 appliedenergistics2:item.ItemMultiMaterial:8, Fluix Dust
 appliedenergistics2:item.ItemMultiMaterial:9, Fluix Pearl
-appliedenergistics2:item.ItemMultiMaterial:43, Formation Core
-appliedenergistics2:item.ItemMultiMaterial:22, Logic Processor
-appliedenergistics2:item.ItemMultiMaterial:15, Inscriber Logic Press
-appliedenergistics2:item.ItemMultiMaterial:18, Printed Logic Circuit
-appliedenergistics2:item.ItemMultiMaterial:6, Matter Ball
-appliedenergistics2:item.ItemMultiMaterial:21, Inscriber Name Press
 appliedenergistics2:item.ItemMultiMaterial:10, Pure Certus Quartz Crystal
-appliedenergistics2:item.ItemMultiMaterial:12, Pure Fluix Crystal
 appliedenergistics2:item.ItemMultiMaterial:11, Pure Nether Quartz Crystal
-appliedenergistics2:item.ItemMultiMaterial:48, Quantum Entangled Singularity
+appliedenergistics2:item.ItemMultiMaterial:12, Pure Fluix Crystal
+appliedenergistics2:item.ItemMultiMaterial:13, Inscriber Calculation Press
+appliedenergistics2:item.ItemMultiMaterial:14, Inscriber Engineering Press
+appliedenergistics2:item.ItemMultiMaterial:15, Inscriber Logic Press
 appliedenergistics2:item.ItemMultiMaterial:19, Inscriber Silicon Press
+appliedenergistics2:item.ItemMultiMaterial:21, Inscriber Name Press
+appliedenergistics2:item.ItemMultiMaterial:16, Printed Calculation Circuit
+appliedenergistics2:item.ItemMultiMaterial:17, Printed Engineering Circuit
+appliedenergistics2:item.ItemMultiMaterial:18, Printed Logic Circuit
 appliedenergistics2:item.ItemMultiMaterial:20, Printed Silicon
-appliedenergistics2:item.ItemMultiMaterial:47, Singularity
-appliedenergistics2:item.ItemMultiMaterial:45, Sky Stone Dust
+appliedenergistics2:item.ItemMultiMaterial:22, Logic Processor
+appliedenergistics2:item.ItemMultiMaterial:23, Calculation Processor
+appliedenergistics2:item.ItemMultiMaterial:24, Engineering Processor
+appliedenergistics2:item.ItemMultiMaterial:25, Basic Card
+appliedenergistics2:item.ItemMultiMaterial:26, Redstone Card
+appliedenergistics2:item.ItemMultiMaterial:27, Capacity Card
+appliedenergistics2:item.ItemMultiMaterial:53, Crafting Card
+appliedenergistics2:item.ItemMultiMaterial:64, Sticky Card
+appliedenergistics2:item.ItemMultiMaterial:68, Overflow Void Card
+appliedenergistics2:item.ItemMultiMaterial:28, Advanced Card
+appliedenergistics2:item.ItemMultiMaterial:29, Fuzzy Card
+appliedenergistics2:item.ItemMultiMaterial:30, Acceleration Card
+appliedenergistics2:item.ItemMultiMaterial:31, Inverter Card
+appliedenergistics2:item.ItemMultiMaterial:54, Pattern Capacity Card
+appliedenergistics2:item.ItemMultiMaterial:55, Oredictionary Filter Card
+appliedenergistics2:item.ItemMultiMaterial:56, Hyper-Acceleration Card
+appliedenergistics2:item.ItemMultiMaterial:63, Advanced Blocking Card
+appliedenergistics2:item.ItemMultiMaterial:65, Locking Card
+appliedenergistics2:item.ItemMultiMaterial:66, Fake Crafting Card
+appliedenergistics2:item.ItemMultiMaterial:67, Superluminal Acceleration Card
+appliedenergistics2:item.ItemMultiMaterial:69, Equal Distribution Card
+appliedenergistics2:item.ItemMultiMaterial:32, 2³ Spatial Component
+appliedenergistics2:item.ItemMultiMaterial:33, 16³ Spatial Component
+appliedenergistics2:item.ItemMultiMaterial:34, 128³ Spatial Component
+appliedenergistics2:item.ItemMultiMaterial:35, §61k§r ME Storage Component
+appliedenergistics2:item.ItemMultiMaterial:36, §e4k§r ME Storage Component
+appliedenergistics2:item.ItemMultiMaterial:37, §a16k§r ME Storage Component
+appliedenergistics2:item.ItemMultiMaterial:38, §b64k§r ME Storage Component
+appliedenergistics2:item.ItemMultiMaterial:57, §9256k§r ME Storage Component
+appliedenergistics2:item.ItemMultiMaterial:58, §d1024k§r ME Storage Component
+appliedenergistics2:item.ItemMultiMaterial:59, §c4096k§r ME Storage Component
+appliedenergistics2:item.ItemMultiMaterial:60, §516384k§r ME Storage Component
+appliedenergistics2:item.ItemMultiMaterial:39, ME Storage Housing
+appliedenergistics2:item.ItemMultiMaterial:61, ME Advanced Storage Housing
+appliedenergistics2:item.ItemMultiMaterial:52, Blank Pattern
 appliedenergistics2:item.ItemMultiMaterial:41, Wireless Receiver
 appliedenergistics2:item.ItemMultiMaterial:42, Wireless Booster
+appliedenergistics2:item.ItemMultiMaterial:43, Formation Core
+appliedenergistics2:item.ItemMultiMaterial:44, Annihilation Core
+appliedenergistics2:item.ItemMultiMaterial:47, Singularity
+appliedenergistics2:item.ItemMultiMaterial:48, Quantum Entangled Singularity
 appliedenergistics2:item.ItemMultiPart:300, ME Annihilation Plane
 appliedenergistics2:item.ItemMultiPart:120, Cable Anchor
 appliedenergistics2:item.ItemMultiPart:20, ME Covered Cable - White
@@ -10430,6 +10613,7 @@ appliedenergistics2:item.ItemMultiPart:466, P2P Tunnel - RF
 appliedenergistics2:item.ItemMultiPart:461, P2P Tunnel - Redstone
 appliedenergistics2:item.ItemMultiPart:472, P2P Tunnel - Sound
 appliedenergistics2:item.ItemMultiPart:690, Creative Energy Anchor
+appliedenergistics2:item.ItemMultiPart:473, ME Pattern Repeater
 appliedenergistics2:item.ItemMultiPart:340, ME Pattern Terminal
 appliedenergistics2:item.ItemMultiPart:500, ME Processing Pattern Terminal
 appliedenergistics2:item.ItemMultiPart:140, Quartz Fiber
@@ -11713,6 +11897,7 @@ hbm:item.solid_fuel_presto_triplet_bf, Boosted Presto Logs (Balefire)
 hbm:item.rocket_fuel, Solid Fuel (Rocket Propellant)
 hbm:item.ingot_fiberglass, Fiberglass Bar
 hbm:item.ingot_asbestos, Asbestos Sheet
+hbm:item.ingot_raw:1, Redstone Ingot
 hbm:item.ingot_raw:6000, Neodymium Ingot
 hbm:item.ingot_raw:501, Borax Ingot
 hbm:item.ingot_raw:1100, Sodium Ingot
@@ -12997,6 +13182,14 @@ hbm:item.gas_full:67, Gas Tank: Aromatic Hydrocarbons
 hbm:item.gas_full:68, Gas Tank: Unsaturated Hydrocarbons
 hbm:item.gas_full:112, Gas Tank: Reformate Gas
 hbm:item.gas_full:26, Gas Tank: Biogas
+hbm:item.gas_full:88, Gas Tank: Oxygen-Rich Air
+hbm:item.gas_full:181, Gas Tank: Duna Air
+hbm:item.gas_full:117, Gas Tank: Eve Air
+hbm:item.gas_full:153, Gas Tank: Jool Air
+hbm:item.gas_full:154, Gas Tank: Sarnus Air
+hbm:item.gas_full:155, Gas Tank: Urlum Air
+hbm:item.gas_full:156, Gas Tank: Neidon Air
+hbm:item.gas_full:125, Gas Tank: Tekto Air
 hbm:item.gas_full:126, Gas Tank: Phosgene
 hbm:item.gas_full:127, Gas Tank: Mustard Gas
 hbm:item.gas_full:40, Gas Tank: Xenon Gas
@@ -13124,6 +13317,8 @@ hbm:item.fluid_tank_full:188, Universal Fluid Tank: Uranium Bromide
 hbm:item.fluid_tank_full:191, Universal Fluid Tank: Thorium Bromide
 hbm:item.fluid_tank_full:189, Universal Fluid Tank: Aqueous Copper
 hbm:item.fluid_tank_full:190, Universal Fluid Tank: Copper Sulfate
+hbm:item.fluid_tank_full:212, Universal Fluid Tank: Lithium Hydroxide Aerosol
+hbm:item.fluid_tank_full:213, Universal Fluid Tank: Lithium Bicarbonate Aerosol
 hbm:item.fluid_tank_full:119, Universal Fluid Tank: Chloromethane
 hbm:item.fluid_tank_full:120, Universal Fluid Tank: Methanol
 hbm:item.fluid_tank_full:123, Universal Fluid Tank: Polyethylene
@@ -13311,6 +13506,8 @@ hbm:item.fluid_tank_lead_full:188, Hazardous Material Tank: Uranium Bromide
 hbm:item.fluid_tank_lead_full:191, Hazardous Material Tank: Thorium Bromide
 hbm:item.fluid_tank_lead_full:189, Hazardous Material Tank: Aqueous Copper
 hbm:item.fluid_tank_lead_full:190, Hazardous Material Tank: Copper Sulfate
+hbm:item.fluid_tank_lead_full:212, Hazardous Material Tank: Lithium Hydroxide Aerosol
+hbm:item.fluid_tank_lead_full:213, Hazardous Material Tank: Lithium Bicarbonate Aerosol
 hbm:item.fluid_tank_lead_full:119, Hazardous Material Tank: Chloromethane
 hbm:item.fluid_tank_lead_full:120, Hazardous Material Tank: Methanol
 hbm:item.fluid_tank_lead_full:123, Hazardous Material Tank: Polyethylene
@@ -13500,6 +13697,8 @@ hbm:item.fluid_barrel_full:188, Fluid Barrel: Uranium Bromide
 hbm:item.fluid_barrel_full:191, Fluid Barrel: Thorium Bromide
 hbm:item.fluid_barrel_full:189, Fluid Barrel: Aqueous Copper
 hbm:item.fluid_barrel_full:190, Fluid Barrel: Copper Sulfate
+hbm:item.fluid_barrel_full:212, Fluid Barrel: Lithium Hydroxide Aerosol
+hbm:item.fluid_barrel_full:213, Fluid Barrel: Lithium Bicarbonate Aerosol
 hbm:item.fluid_barrel_full:119, Fluid Barrel: Chloromethane
 hbm:item.fluid_barrel_full:120, Fluid Barrel: Methanol
 hbm:item.fluid_barrel_full:123, Fluid Barrel: Polyethylene
@@ -13688,6 +13887,8 @@ hbm:item.fluid_pack_full:188, Packaged Uranium Bromide
 hbm:item.fluid_pack_full:191, Packaged Thorium Bromide
 hbm:item.fluid_pack_full:189, Packaged Aqueous Copper
 hbm:item.fluid_pack_full:190, Packaged Copper Sulfate
+hbm:item.fluid_pack_full:212, Packaged Lithium Hydroxide Aerosol
+hbm:item.fluid_pack_full:213, Packaged Lithium Bicarbonate Aerosol
 hbm:item.fluid_pack_full:119, Packaged Chloromethane
 hbm:item.fluid_pack_full:120, Packaged Methanol
 hbm:item.fluid_pack_full:123, Packaged Polyethylene
@@ -13755,42 +13956,76 @@ hbm:item.pipette, Pipette
 hbm:item.pipette_boron, Boron Pipette
 hbm:item.pipette_laboratory, Laboratory Grade Pipette
 hbm:item.siphon, Siphon
-hbm:item.battery_generic, Battery
-hbm:item.battery_red_cell, Redstone Power Cell
-hbm:item.battery_red_cell_6, Sixfold Redstone Power Cell
-hbm:item.battery_red_cell_24, 24-Fold Redstone Power Cell
-hbm:item.battery_advanced, Advanced Battery
-hbm:item.battery_advanced_cell, Advanced Power Cell
-hbm:item.battery_advanced_cell_4, Quadruple Advanced Power Cell
-hbm:item.battery_advanced_cell_12, Twelvefold Advanced Power Cell
-hbm:item.battery_lithium, Lithium-Ion Battery
-hbm:item.battery_lithium_cell, Lithium-Ion Power Cell
-hbm:item.battery_lithium_cell_3, Triple Lithium-Ion Power Cell
-hbm:item.battery_lithium_cell_6, Sixfold Lithium-Ion Power Cell
-hbm:item.battery_schrabidium, Schrabidium Battery
-hbm:item.battery_schrabidium_cell, Schrabidium Power Cell
-hbm:item.battery_schrabidium_cell_2, Double Schrabidium Power Cell
-hbm:item.battery_schrabidium_cell_4, Quadruple Schrabidium Power Cell
+hbm:item.battery_generic, Battery (LEGACY)
+hbm:item.battery_red_cell, Redstone Power Cell (LEGACY)
+hbm:item.battery_red_cell_6, Sixfold Redstone Power Cell (LEGACY)
+hbm:item.battery_red_cell_24, 24-Fold Redstone Power Cell (LEGACY)
+hbm:item.battery_advanced, Advanced Battery (LEGACY)
+hbm:item.battery_advanced_cell, Advanced Power Cell (LEGACY)
+hbm:item.battery_advanced_cell_4, Quadruple Advanced Power Cell (LEGACY)
+hbm:item.battery_advanced_cell_12, Twelvefold Advanced Power Cell (LEGACY)
+hbm:item.battery_lithium, Lithium-Ion Battery (LEGACY)
+hbm:item.battery_lithium_cell, Lithium-Ion Power Cell (LEGACY)
+hbm:item.battery_lithium_cell_3, Triple Lithium-Ion Power Cell (LEGACY)
+hbm:item.battery_lithium_cell_6, Sixfold Lithium-Ion Power Cell (LEGACY)
+hbm:item.battery_schrabidium, Schrabidium Battery (LEGACY)
+hbm:item.battery_schrabidium_cell, Schrabidium Power Cell (LEGACY)
+hbm:item.battery_schrabidium_cell_2, Double Schrabidium Power Cell (LEGACY)
+hbm:item.battery_schrabidium_cell_4, Quadruple Schrabidium Power Cell (LEGACY)
 hbm:item.battery_spark, Spark Battery
 hbm:item.battery_trixite, Off-Brand Spark Battery
-hbm:item.battery_spark_cell_6, Spark Power Cell
-hbm:item.battery_spark_cell_25, Spark Arcane Car Battery
-hbm:item.battery_spark_cell_100, Spark Arcane Energy Storage Array
-hbm:item.battery_spark_cell_1000, Spark Arcane Mass-Energy Void
-hbm:item.battery_spark_cell_2500, Spark Arcane Dirac Sea
-hbm:item.battery_spark_cell_10000, Spark Solid Space-Time Crystal
-hbm:item.battery_spark_cell_power, Spark Ludicrous Physics-Defying Energy Storage Unit
-hbm:item.cube_power, Electronium Cube
+hbm:item.battery_spark_cell_6, Spark Power Cell (LEGACY)
+hbm:item.battery_spark_cell_25, Spark Arcane Car Battery (LEGACY)
+hbm:item.battery_spark_cell_100, Spark Arcane Energy Storage Array (LEGACY)
+hbm:item.battery_spark_cell_1000, Spark Arcane Mass-Energy Void (LEGACY)
+hbm:item.battery_spark_cell_2500, Spark Arcane Dirac Sea (LEGACY)
+hbm:item.battery_spark_cell_10000, Spark Solid Space-Time Crystal (LEGACY)
+hbm:item.battery_spark_cell_power, Spark Ludicrous Physics-Defying Energy Storage Unit (LEGACY)
+hbm:item.battery_pack:0, Redstone Battery
+hbm:item.battery_pack:0, Redstone Battery
+hbm:item.battery_pack:1, Lead-Acid Battery
+hbm:item.battery_pack:1, Lead-Acid Battery
+hbm:item.battery_pack:2, Lithium-Ion Battery
+hbm:item.battery_pack:2, Lithium-Ion Battery
+hbm:item.battery_pack:3, Sodium-Iron Battery
+hbm:item.battery_pack:3, Sodium-Iron Battery
+hbm:item.battery_pack:4, Schrabidium Battery
+hbm:item.battery_pack:4, Schrabidium Battery
+hbm:item.battery_pack:5, Quantum Battery
+hbm:item.battery_pack:5, Quantum Battery
+hbm:item.battery_pack:6, Copper Capacitor
+hbm:item.battery_pack:6, Copper Capacitor
+hbm:item.battery_pack:7, Gold Capacitor
+hbm:item.battery_pack:7, Gold Capacitor
+hbm:item.battery_pack:8, Niobium Capacitor
+hbm:item.battery_pack:8, Niobium Capacitor
+hbm:item.battery_pack:9, Tantalum Capacitor
+hbm:item.battery_pack:9, Tantalum Capacitor
+hbm:item.battery_pack:10, Bismuth Capacitor
+hbm:item.battery_pack:10, Bismuth Capacitor
+hbm:item.battery_pack:11, Spark Capacitor
+hbm:item.battery_pack:11, Spark Capacitor
+hbm:item.battery_sc:0, Empty Self-Charging Battery
+hbm:item.battery_sc:1, Spent Fuel Self-Charging Battery
+hbm:item.battery_sc:2, Radium-226 Self-Charging Battery
+hbm:item.battery_sc:3, Technetium-99 Self-Charging Battery
+hbm:item.battery_sc:4, Cobalt-60 Self-Charging Battery
+hbm:item.battery_sc:5, Plutonium-238 Self-Charging Battery
+hbm:item.battery_sc:6, Polonium-210 Self-Charging Battery
+hbm:item.battery_sc:7, Gold-198 Self-Charging Battery
+hbm:item.battery_sc:8, Lead-209 Self-Charging Battery
+hbm:item.battery_sc:9, Americium-241 Self-Charging Battery
 hbm:item.battery_creative, Infinite Battery
+hbm:item.cube_power, Electronium Cube
 hbm:item.battery_potato, Potato Battery
 hbm:item.battery_potatos, PotatOS
-hbm:item.battery_sc_uranium, Self-Charging Uranium-238 Battery
-hbm:item.battery_sc_technetium, Self-Charging Technetium-99 Battery
-hbm:item.battery_sc_plutonium, Self-Charging Plutonium-238 Battery
-hbm:item.battery_sc_polonium, Self-Charging Polonium-210 Battery
-hbm:item.battery_sc_gold, Self-Charging Gold-198 Battery
-hbm:item.battery_sc_lead, Self-Charging Lead-209 Battery
-hbm:item.battery_sc_americium, Self-Charging Americium-241 Battery
+hbm:item.battery_sc_uranium, Self-Charging Uranium-238 Battery (LEGACY)
+hbm:item.battery_sc_technetium, Self-Charging Technetium-99 Battery (LEGACY)
+hbm:item.battery_sc_plutonium, Self-Charging Plutonium-238 Battery (LEGACY)
+hbm:item.battery_sc_polonium, Self-Charging Polonium-210 Battery (LEGACY)
+hbm:item.battery_sc_gold, Self-Charging Gold-198 Battery (LEGACY)
+hbm:item.battery_sc_lead, Self-Charging Lead-209 Battery (LEGACY)
+hbm:item.battery_sc_americium, Self-Charging Americium-241 Battery (LEGACY)
 hbm:item.hev_battery, Suit Battery
 hbm:item.fusion_core, Fusion Core
 hbm:item.energy_core, Makeshift Energy Core
@@ -14143,6 +14378,8 @@ hbm:item.fluid_icon:188, Uranium Bromide
 hbm:item.fluid_icon:191, Thorium Bromide
 hbm:item.fluid_icon:189, Aqueous Copper
 hbm:item.fluid_icon:190, Copper Sulfate
+hbm:item.fluid_icon:212, Lithium Hydroxide Aerosol
+hbm:item.fluid_icon:213, Lithium Bicarbonate Aerosol
 hbm:item.fluid_icon:119, Chloromethane
 hbm:item.fluid_icon:120, Methanol
 hbm:item.fluid_icon:123, Polyethylene
@@ -14349,6 +14586,8 @@ hbm:item.fluid_duct:188, Fluid Duct: Uranium Bromide
 hbm:item.fluid_duct:191, Fluid Duct: Thorium Bromide
 hbm:item.fluid_duct:189, Fluid Duct: Aqueous Copper
 hbm:item.fluid_duct:190, Fluid Duct: Copper Sulfate
+hbm:item.fluid_duct:212, Fluid Duct: Lithium Hydroxide Aerosol
+hbm:item.fluid_duct:213, Fluid Duct: Lithium Bicarbonate Aerosol
 hbm:item.fluid_duct:119, Fluid Duct: Chloromethane
 hbm:item.fluid_duct:120, Fluid Duct: Methanol
 hbm:item.fluid_duct:123, Fluid Duct: Polyethylene
@@ -15803,6 +16042,8 @@ hbm:item.disperser_canister:208, Disperser Canister: Chlorinated Benzenes
 hbm:item.disperser_canister:209, Disperser Canister: Light Halocarbons
 hbm:item.disperser_canister:35, Disperser Canister: Hydrogen Peroxide
 hbm:item.disperser_canister:75, Disperser Canister: Sulfuric Acid
+hbm:item.disperser_canister:212, Disperser Canister: Lithium Hydroxide Aerosol
+hbm:item.disperser_canister:213, Disperser Canister: Lithium Bicarbonate Aerosol
 hbm:item.disperser_canister:119, Disperser Canister: Chloromethane
 hbm:item.disperser_canister:120, Disperser Canister: Methanol
 hbm:item.disperser_canister:123, Disperser Canister: Polyethylene
@@ -19023,6 +19264,108 @@ ThermalDynamics:cover:0, Sheetmetal Cover
 ThermalDynamics:cover:0, Sheetmetal Cover
 ThermalDynamics:cover:0, Sheetmetal Cover
 ThermalDynamics:cover:0, Sheetmetal Cover
+ThermalDynamics:cover:0, Moss Cover
+ThermalDynamics:cover:0, Moss Cover
+ThermalDynamics:cover:0, Moss Cover
+ThermalDynamics:cover:0, Moss Cover
+ThermalDynamics:cover:0, Moss Cover
+ThermalDynamics:cover:0, Moss Cover
+ThermalDynamics:cover:0, Moss Cover
+ThermalDynamics:cover:0, Moss Cover
+ThermalDynamics:cover:0, Moss Cover
+ThermalDynamics:cover:0, Moss Cover
+ThermalDynamics:cover:0, Moss Cover
+ThermalDynamics:cover:0, Block of Electrum Cover
+ThermalDynamics:cover:0, Block of Electrum Cover
+ThermalDynamics:cover:0, Block of Electrum Cover
+ThermalDynamics:cover:0, Block of Electrum Cover
+ThermalDynamics:cover:0, Block of Electrum Cover
+ThermalDynamics:cover:0, Block of Electrum Cover
+ThermalDynamics:cover:0, Block of Electrum Cover
+ThermalDynamics:cover:0, Block of Invar Cover
+ThermalDynamics:cover:0, Block of Invar Cover
+ThermalDynamics:cover:0, Block of Invar Cover
+ThermalDynamics:cover:0, Block of Invar Cover
+ThermalDynamics:cover:0, Block of Invar Cover
+ThermalDynamics:cover:0, Block of Invar Cover
+ThermalDynamics:cover:0, Block of Invar Cover
+ThermalDynamics:cover:0, Block of Nickel Cover
+ThermalDynamics:cover:0, Block of Nickel Cover
+ThermalDynamics:cover:0, Block of Nickel Cover
+ThermalDynamics:cover:0, Block of Nickel Cover
+ThermalDynamics:cover:0, Block of Nickel Cover
+ThermalDynamics:cover:0, Block of Nickel Cover
+ThermalDynamics:cover:0, Block of Nickel Cover
+ThermalDynamics:cover:0, Block of Platinum Cover
+ThermalDynamics:cover:0, Block of Platinum Cover
+ThermalDynamics:cover:0, Block of Platinum Cover
+ThermalDynamics:cover:0, Block of Platinum Cover
+ThermalDynamics:cover:0, Block of Platinum Cover
+ThermalDynamics:cover:0, Block of Platinum Cover
+ThermalDynamics:cover:0, Block of Platinum Cover
+ThermalDynamics:cover:0, Block of Wrought Iron Cover
+ThermalDynamics:cover:0, Block of Wrought Iron Cover
+ThermalDynamics:cover:0, Block of Wrought Iron Cover
+ThermalDynamics:cover:0, Block of Wrought Iron Cover
+ThermalDynamics:cover:0, Block of Wrought Iron Cover
+ThermalDynamics:cover:0, Block of Wrought Iron Cover
+ThermalDynamics:cover:0, Block of Wrought Iron Cover
+ThermalDynamics:cover:0, Block of Wrought Iron Cover
+ThermalDynamics:cover:0, Block of Titanium Cover
+ThermalDynamics:cover:0, Block of Titanium Cover
+ThermalDynamics:cover:0, Block of Titanium Cover
+ThermalDynamics:cover:0, Block of Titanium Cover
+ThermalDynamics:cover:0, Block of Titanium Cover
+ThermalDynamics:cover:0, Block of Titanium Cover
+ThermalDynamics:cover:0, Block of Titanium Cover
+ThermalDynamics:cover:0, Block of Titanium Cover
+ThermalDynamics:cover:0, Block of Stainless Steel Cover
+ThermalDynamics:cover:0, Block of Stainless Steel Cover
+ThermalDynamics:cover:0, Block of Stainless Steel Cover
+ThermalDynamics:cover:0, Block of Stainless Steel Cover
+ThermalDynamics:cover:0, Block of Stainless Steel Cover
+ThermalDynamics:cover:0, Block of Stainless Steel Cover
+ThermalDynamics:cover:0, Block of Stainless Steel Cover
+ThermalDynamics:cover:0, Block of Stainless Steel Cover
+ThermalDynamics:cover:0, Block of Tungstensteel Cover
+ThermalDynamics:cover:0, Block of Tungstensteel Cover
+ThermalDynamics:cover:0, Block of Tungstensteel Cover
+ThermalDynamics:cover:0, Block of Tungstensteel Cover
+ThermalDynamics:cover:0, Block of Tungstensteel Cover
+ThermalDynamics:cover:0, Block of Tungstensteel Cover
+ThermalDynamics:cover:0, Block of Tungstensteel Cover
+ThermalDynamics:cover:0, Block of Tungstensteel Cover
+ThermalDynamics:cover:0, Block of Rhodium-Plated Palladium Cover
+ThermalDynamics:cover:0, Block of Rhodium-Plated Palladium Cover
+ThermalDynamics:cover:0, Block of Rhodium-Plated Palladium Cover
+ThermalDynamics:cover:0, Block of Rhodium-Plated Palladium Cover
+ThermalDynamics:cover:0, Block of Rhodium-Plated Palladium Cover
+ThermalDynamics:cover:0, Block of Rhodium-Plated Palladium Cover
+ThermalDynamics:cover:0, Block of Rhodium-Plated Palladium Cover
+ThermalDynamics:cover:0, Block of Rhodium-Plated Palladium Cover
+ThermalDynamics:cover:0, Block of Iridium Cover
+ThermalDynamics:cover:0, Block of Iridium Cover
+ThermalDynamics:cover:0, Block of Iridium Cover
+ThermalDynamics:cover:0, Block of Iridium Cover
+ThermalDynamics:cover:0, Block of Iridium Cover
+ThermalDynamics:cover:0, Block of Iridium Cover
+ThermalDynamics:cover:0, Block of Iridium Cover
+ThermalDynamics:cover:0, Block of Iridium Cover
+ThermalDynamics:cover:0, Block of Osmium Cover
+ThermalDynamics:cover:0, Block of Osmium Cover
+ThermalDynamics:cover:0, Block of Osmium Cover
+ThermalDynamics:cover:0, Block of Osmium Cover
+ThermalDynamics:cover:0, Block of Osmium Cover
+ThermalDynamics:cover:0, Block of Osmium Cover
+ThermalDynamics:cover:0, Block of Osmium Cover
+ThermalDynamics:cover:0, Block of Osmium Cover
+ThermalDynamics:cover:0, Block of Cobalt Cover
+ThermalDynamics:cover:0, Block of Cobalt Cover
+ThermalDynamics:cover:0, Block of Cobalt Cover
+ThermalDynamics:cover:0, Block of Cobalt Cover
+ThermalDynamics:cover:0, Block of Cobalt Cover
+ThermalDynamics:cover:0, Block of Cobalt Cover
+ThermalDynamics:cover:0, Block of Cobalt Cover
 ThermalDynamics:cover:0, Sturdy Rail Cover
 ThermalDynamics:cover:0, Sturdy Powered Rail Cover
 ThermalDynamics:cover:0, Sturdy Detector Rail Cover
@@ -20534,8 +20877,6 @@ ThermalDynamics:cover:0, Bedrock Oil Deposit Cover
 ThermalDynamics:cover:0, Bedrock Oil Deposit Cover
 ThermalDynamics:cover:0, Bedrock Oil Deposit Cover
 ThermalDynamics:cover:0, Bedrock Oil Deposit Cover
-ThermalDynamics:cover:0, Oily Coal Ore Cover
-ThermalDynamics:cover:0, Burning Oily Coal Ore Cover
 ThermalDynamics:cover:0, Burning Nether Coal Ore Cover
 ThermalDynamics:cover:0, Smoldering Netherrack Cover
 ThermalDynamics:cover:0, Nether Uranium Ore Cover
@@ -20693,11 +21034,6 @@ ThermalDynamics:cover:0, Block of Polymer Cover
 ThermalDynamics:cover:0, Block of Bakelite Cover
 ThermalDynamics:cover:0, Block of Rubber Cover
 ThermalDynamics:cover:0, Block of Australium Cover
-ThermalDynamics:cover:0, Block of Weidanium Cover
-ThermalDynamics:cover:0, Block of Reiium Cover
-ThermalDynamics:cover:0, Block of Unobtainium Cover
-ThermalDynamics:cover:0, Block of Daffergon Cover
-ThermalDynamics:cover:0, Block of Verticium Cover
 ThermalDynamics:cover:0, Block of Nuka Cola Bottle Caps Cover
 ThermalDynamics:cover:0, Block of Nuka Cola Quantum Bottle Caps Cover
 ThermalDynamics:cover:0, Block of S~Cola Bottle Caps Cover
@@ -21118,7 +21454,6 @@ ThermalDynamics:cover:0, Dineutronium Anvil Cover
 ThermalDynamics:cover:0, Osmiridium Anvil Cover
 ThermalDynamics:cover:0, Murky Anvil Cover
 ThermalDynamics:cover:0, Burner Press Preheater Cover
-ThermalDynamics:cover:0, ZPE Potential Generator (Top) Cover
 ThermalDynamics:cover:0, Particle Accelerator Plating Cover
 ThermalDynamics:cover:0, Particle Accelerator Plating (Blue) Cover
 ThermalDynamics:cover:0, Particle Accelerator Plating (Black) Cover
@@ -21160,7 +21495,7 @@ ThermalDynamics:cover:0, Steel Ladder Cover
 ThermalDynamics:cover:0, Lead Ladder Cover
 ThermalDynamics:cover:0, Cobalt Ladder Cover
 ThermalDynamics:cover:0, Steel Trapdoor Cover
-ThermalDynamics:cover:0, Capacitor Bus Cover
+ThermalDynamics:cover:0, Capacitor Bus (LEGACY) Cover
 ThermalDynamics:cover:0, 10k-20Hz Transformer Cover
 ThermalDynamics:cover:0, DNT-20Hz Transformer Cover
 ThermalDynamics:cover:0, Old Boiler Cover
@@ -21210,10 +21545,6 @@ ThermalDynamics:cover:0, PWR Neutron Source Cover
 ThermalDynamics:cover:0, PWR Neutron Reflector Cover
 ThermalDynamics:cover:0, PWR Pressure Vessel Cover
 ThermalDynamics:cover:0, PWR Access Port Cover
-ThermalDynamics:cover:0, Superconducting Magnet Cover
-ThermalDynamics:cover:0, Superconducting Magnet (Welded) Cover
-ThermalDynamics:cover:0, Central Magnet Piece Cover
-ThermalDynamics:cover:0, Magnet Motor Piece Cover
 ThermalDynamics:cover:0, Plasma Heater Component Cover
 ThermalDynamics:cover:0, Duct Deco Block Cover
 ThermalDynamics:cover:0, Plasma Cover
@@ -21431,6 +21762,8 @@ ThermalDynamics:cover:0, PPE Glasses Wall Marking Cover
 ThermalDynamics:cover:0, PPE High-Vis Wall Marking Cover
 ThermalDynamics:cover:0, PPE Mask Wall Marking Cover
 ThermalDynamics:cover:0, PPE Suit Wall Marking Cover
+ThermalDynamics:cover:0, tile.wall_marking_no_safety.name Cover
+ThermalDynamics:cover:0, tile.wall_marking_smoking_first.name Cover
 ThermalDynamics:cover:0, Hazard Barbed Wire Wall Marking Cover
 ThermalDynamics:cover:0, Hazard Highwater Wall Marking Cover
 ThermalDynamics:cover:0, Hazard Wither Wall Marking Cover
